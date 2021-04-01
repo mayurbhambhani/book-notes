@@ -122,4 +122,4 @@ REM state is the integration where this new raw ingredients are connected with e
 - The far end and the far right regions of the prefont cortex ,the place where we place our fingers when we are dissapointed, show less activity. This is the region responsible for rational thought and logical decision making. They can be considered deactivated and hence, logic is thrown out of the window.
 - Monitoring the activity in the brain regions one can tell, what kind of dream someone is dreaming. Emotional, physical etc.
 - Through supervised learning that is by asking people what did they see and mapping it with the brain activity we can predict what did the person see. For example, a car or a garden etc.
-  
+- Journaling our waking thoughts, feelings , concerns and our dreams is a useful thing to do. As Socrates shared, A meaningful, healthy psychological life is an examined one.
