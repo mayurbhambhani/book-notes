@@ -1,4 +1,4 @@
-###Introduction
+### Introduction
 
 The books is about the psychology tactics are used by compliance professionals(Salesmen, fund raisers, recruiters, advertisers) to get us to do that is beneficial to them and how can we protect ourselves from those tactics.
 
@@ -17,7 +17,7 @@ The author has used the following methods.
 
 
 
-###Chapter 1: Expensive = better and perceptual contrast.
+### Chapter 1: Expensive = better and perceptual contrast.
 
 1. Jewelry store double price example. 
 2. Turkey Example. Turkey tends to offsprings only because of the sound, It will even tend to its enemy, if it makes the same sound. Automatic pathways which manifest on a trigger.
@@ -33,7 +33,7 @@ The author has used the following methods.
 
 
 
-###Chapter 2: Reciprocity 
+### Chapter 2: Reciprocity 
 
 1. Mexico Ethiopia Aid. Even when Ethiopia was dirt poor it sent 5000$ aid to Mexico for earthquake relief because of a help Mexico had given Ethiopia 50 years back
 2. The Hare Krishna foundations asking for donation after handing the prospect a flower.
@@ -76,7 +76,7 @@ The author has used the following methods.
 
 
 
-###Chapter 4: Social Proof
+### Chapter 4: Social Proof
 
 1. The principle of social proof states that when we are uncertain what to do, we try to determine the course of action by looking at others. Our probability of doing the same thing is proportional to the similarity between us and others.
 2. Canned laughter in comedy shows tricks us into finding something funnier than it actually is.
@@ -90,7 +90,7 @@ The author has used the following methods.
 10. How to say no. 1. When you see false data is provided (canned laughter) disable the autopilot. 2. Validate the social proof by taking a glance in your surroundings. The lane switching example. If 4 car in front of you are switching lanes, you assume something might be wrong with the lane further ahead and you try to switch it too.
 
 
-###Chapter 5: Liking: The friendly thief
+### Chapter 5: Liking: The friendly thief
 
 1. We tend to positively respond to requests put forward by people we like. It might be startling to note there are multiple strangers who use this effect to make us comply to there requests.
 2. Physical attractiveness generates a very powerful halo effect. Physically attractive people seem more intelligent, receive easy help from people of both genders. Attractive criminals get lighter sentences and teachers view aggressive acts as less naughty when performed by attractive students.
@@ -103,7 +103,7 @@ The author has used the following methods.
 9. How to say no. Realize that you are liking somebody w/o a reason and liking them more than the evidence permits. Then you will be tipped of that may be some tactic is being used. You don’t have to know what is the reason. Don’t confront the individual because they might be genuinely nice. But your decision should not be influenced by the fact that you like them. You have to drive the car, not the salesman.
 
 
-###Chapter 6: Authority : Directed Deference
+### Chapter 6: Authority : Directed Deference
  1. The chapter starts by describing an experiment which was conducted to determine till what extent authority can drive people to do things. The experiment involves three participants. The researcher, a subject and a fake subject. The researcher give the fake subject a list of facts which has to learn in very little time and then he is tied to an electric chair and is asked questions on the facts. Each wrong response, the original subject has to push a button which delivers a fake electric shock to the face subject. The real subject although doesnt know that the shocks are fake. The real subject has been told the shocks are real and with each shock the shock intensity increase. As the experiment progresses the fake subject who is an actor begs for mercy to stop it, but the researcher keeps ordering the subject to deliver the shock whenever the answers are wrong or if there is refusal to answer them. This goes uptown the shock intensity of 450 volts. The hypothesis is that the subject could only do this because he was ordered by the researcher at each step to do so. To prove this point they conducted to similar experiments. In one the role of the researcher and the original subject was reversed. In another one the researcher was asking to stop the but fake subject was braving to continue. In both the latter situations the real subject decided to stop. These experiments were performed on a number of people and the results were mostly the same.
  2. Humans operate bu collaborating, Collaboration is very difficult without authority. So hence it is instilled in our minds that instructions by authority can trusted. This fact is used by con artists and compliance professionals. 
  3. This is possible because for effects of authority, authority itself is not mandatory. Just the illusion that the authority is present is enough. These illusions can be induced by the following.
@@ -114,7 +114,7 @@ The author has used the following methods.
  
  
  
- ###Chapter 7 : Scarcity - The rule of the few
+ ### Chapter 7 : Scarcity - The rule of the few
  1. Starts with an example where a restricted section of the Mormon temple was opened up for sometime during which the author got an urge to see it. He found that he was only interested because the opportunity was available for a limited period of time.
  2. The “limited edition” is also a similar technique.
  3. As a rule, anything , if its rare or is becoming rare, ends un increasing its value beyond its current worth
@@ -133,7 +133,7 @@ The author has used the following methods.
  16. How to say no: Use the unexplained desire to flag you. And then ask yourself, you are making the decision to just “have” the scarce item, or we actually want to use it. And if we want to use it. Is the utility worth the price.
  
  
- ###Epilogue
+ ### Epilogue
  
  Our brain takes shortcut and they are extremely useful. Anyone missing these shortcuts is doing us a great disservice by reducing our belief in these shortcuts. Whenever we find this is happening, we should be prepared to use boycott, confrontation, censure, tirade, nearly anything to retaliate.
 
