@@ -26,7 +26,7 @@ Re-reading the same sentence on the digital screen.
 There is a questionnaire included in the book.  
 
 
-##Chapter 3: Defining and Generating Sleep
+## Chapter 3: Defining and Generating Sleep
 
 This chapter talks about REM(Rapid Eye Movement) and NREM(non-REM).
 The sleep is an alternating cycle between these two where in the beginning of the sleep NREM takes major time of the cycle and vice versa in the end.
@@ -41,7 +41,7 @@ NREM state processes this data and transfers the skills and information in long 
 REM state is the integration where this new raw ingredients are connected with each other and the past.
 
 
-##Chapter 4: Who sleeps, How do we Sleep and How Much
+## Chapter 4: Who sleeps, How do we Sleep and How Much
 
 1. Without exception every animal studied to date sleeps or engages in something remarkably like sleep.
 2. Sleep among all organisms differ in 4 ways .Daily duration , amount of REM sleep, the way we sleep(humans lie horizontally, some animals sleep on tree), Change of sleep patterns under rare circumstances( fasting makes us sleep less, some migratory birds can stay sleep deprived for a longer time while migrating ).
