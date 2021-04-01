@@ -1,5 +1,11 @@
 # Why We Sleep
 
+<!--@nested-tags:sleep,infants,pregnancy,adoloscence-->
+#sleep
+#infants
+#pregnancy
+#adoloscence
+
 ## Chapter 1- To Sleep…
 
 The author talks about how he went into sleep research. It started with his research on predicting what kind of dementia a person will develop in future by observing the brainwave patterns during sleep.
@@ -49,6 +55,53 @@ REM state is the integration where this new raw ingredients are connected with e
 4. How should we sleep. Biphasic. 8 hrs in the night and 60-90 minutes nap during the day.
 5. Humans sleep in REM stage 25% of their sleep time. The whole animal kingdom aves 9%.
 6. For some birds or animals, the left and right half of the brains can take turns to sleep. This is called uni-hemispheric sleep. Humans have a very mild version of it. It only happens when we sleep in unfamiliar environments. One half of the brain sleeps a little lighter than the other. Thats why first night in the hotel the quality of sleep is not so great.
+
+
+
+### Chapter 5
+
+#### Sleep Before Birth
+- Most of the time is spent in sleep.
+- Babies kick because during REM sleep the brain can not paralyse the body because the part of the brain responsible for sleep paralysis is not developed yet.
+- Only in the final trimester, there is 2-3 hours wakefulness.
+- In the last two weeks, the REM sleep increases. About 9-12 hrs a day is spent in REM sleep.
+- A lot of neural connections are generated in the brain during the last bout of REM sleep. This phase is called synaptogenesis. Think of REM sleep as in Internet Service Provider that provides new neighbourhoods of the brains with vast networks of fibre optic cables. Everything is connected to everything and there is a lot of redundancy
+- If this REM sleep is distrubed then there are very bad consequences. Hence mothers should not consume alcohol.
+- In infant stages also REM sleep is very important. Giving alcohol to babies can lower the quality of REM sleep and hence can have long lasting impacts.
+
+
+#### Childhood sleep
+- Infants sleep in a polyphasic manner as oppsed to monophasic manner used by adults.
+- A good funny book on the above phenomena is Go the Fuck to Sleep. Audio version is even better it seems. Its narrated by Samuel Jackson
+- With every year the nightime sleep increases and the infant goes towards the monophasic sleep pattern. The circadian rythm is said around 4.
+- The NREM/REM sleep ratio is around 50/50 in first 6 months. Around 5 the REM sleep decreases and the ratio becomes 70/30. Later in life this ratio is stablised to 80/20 in favor of NREM and stays there for the rest of the life.
+
+#### Sleep Adoloscence
+- As we saw that during initial stages of brain the internet service provider everything with everything, but this is not a good long term strategy, some connections in the brain need higher bandwidth and some dont need any bandwidth at all. So between the initial stage of life and adoloscence after getting enough statistic the ISP then rearranges the connections to be more efficient. This happens during the NREM sleep during adoloscence and hence the NREM sleep increases during adoloscence and after this synaptic pruning comes down to its natural levels.
+- This synaptic pruning starts from the backside of the brain , the area responsible for vision and perception and ends at the front, the area responsible for rational thought and hence rationality is amongs the last brain functions that gets developed in the brain and hence teenagers are mostly irrational.
+- Hence in adoloscence the deep sleep or NREM sleep provides necessary neural pruning.
+- If this pruning doesnt happen properly then there is a risk of schizophrenia and other psychatric disorders
+- The circadian rythm of a child runs on an earlier schedule and the circadian rythm of a teenager runs on a later schedule. And hence teenager have the tendency of staying up late. The worst part is they will sleep late and their dads will wake them up early in the morning thinking their kids are lazy. This interrupts the important pruning phase. Although in early adulhood it becomes normal
+
+
+#### Sleep in middle life and old age
+
+- The older adults less sleep is a myth.
+- They are just not able to generate the sleep they need.
+- Them not getting enough sleep contributes to the aging.
+- As we go to late 20s and 30s, a decline in deep sleep is observed, both in quantity and quality
+- By the age of 70 we loose 80% of the sleep our young minds enjoyed.
+- Sleeping pills are not a goos solution.
+- The older we get the more our sleep is fragmented, and hence the quality of sleep is not that great.
+- Elders should also take care while going to bathrooms due to fragmented sleep and bladder problems. The mind is not completely efficient  and is groggy when they wake up during the night and thus they run a rusk of falling down while going to bathroom. They should always turn on the lights and give their brain a chance to collect itself before getting up from the bed. They should sleep by a nightime light. Have motion sensed light in the bathroom if possible. They should remove obstacles and rugs on their way from bed to the bathroom and there should be a phone by their bed for emergencies.
+- Another issue with sleep in old age is that of circadian rythm. This change asks for an earlier bed time. Hence evening naps are to be avoided.
+- Circadian rythms can be changed via
+  - In the morning always wear googles when going into the sunlight.
+  - In the late afternoon go out in the sunlight, wear had and sunscreen if required but dont wear googles.
+  - Older adults can also consider taking melatonin pills. Only after consulting with doctors.
+- The reason deep sleep declines in older age is that the parts of the brain responsible for generating the deep sleep degenerate the first. 
+- As deep sleep is important for cementing facts and muscle memory older people become forgetful.
+-  
 
 
 
