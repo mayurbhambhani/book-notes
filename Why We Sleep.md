@@ -86,14 +86,14 @@ REM state is the integration where this new raw ingredients are connected with e
 
 #### Sleep in middle life and old age
 
-- The older adults less sleep is a myth.
+- Older adults need less sleep is a myth.
 - They are just not able to generate the sleep they need.
-- Them not getting enough sleep contributes to the aging.
-- As we go to late 20s and 30s, a decline in deep sleep is observed, both in quantity and quality
+- Them not getting enough sleep contributes to the ageing.
+- As we go to late 20s and 30s, a decline in deep sleep is observed, both in quantity and quality.
 - By the age of 70 we loose 80% of the sleep our young minds enjoyed.
 - Sleeping pills are not a goos solution.
 - The older we get the more our sleep is fragmented, and hence the quality of sleep is not that great.
-- Elders should also take care while going to bathrooms due to fragmented sleep and bladder problems. The mind is not completely efficient  and is groggy when they wake up during the night and thus they run a rusk of falling down while going to bathroom. They should always turn on the lights and give their brain a chance to collect itself before getting up from the bed. They should sleep by a nightime light. Have motion sensed light in the bathroom if possible. They should remove obstacles and rugs on their way from bed to the bathroom and there should be a phone by their bed for emergencies.
+- Elders should also take care while going to bathrooms during the night due to fragmented sleep and bladder problems. The mind is not completely efficient and is groggy when they wake up during the night and thus they run a risk of falling down. They should always turn on the lights and give their brain a chance to collect itself before getting up from the bed. They should sleep by a nightime light. Have motion sensed light in the bathroom if possible. They should remove obstacles and rugs on their way from bed to the bathroom and there should be a phone by their bed for emergencies.
 - Another issue with sleep in old age is that of circadian rythm. This change asks for an earlier bed time. Hence evening naps are to be avoided.
 - Circadian rythms can be changed via
   - In the morning always wear googles when going into the sunlight.
@@ -101,7 +101,25 @@ REM state is the integration where this new raw ingredients are connected with e
   - Older adults can also consider taking melatonin pills. Only after consulting with doctors.
 - The reason deep sleep declines in older age is that the parts of the brain responsible for generating the deep sleep degenerate the first. 
 - As deep sleep is important for cementing facts and muscle memory older people become forgetful.
--  
 
 
 
+
+### Why we dream
+### Chapter 9 : Routinely Psychotic
+
+- Opposed to NREM sleep where compared to wakeful state there is less activity in the brain, in REM the activity is more than the wakeful state.
+- The theory given by Freud is not scientific. It can neither be proved nor disproved. According to freud, dreams are nothing but manifestation of our hidden desires. In other words, dreams are for wish fullfilment. But the desires dont manifest themselves as they are. They disguise themselves. And they do so because if the desires were presented as it is then the dreamer would be shocked and would wake up. Hence the desires are disguised or encrypted. They cannot be decrypted until you have the key. Freud claimed he had the key.
+- The problem with Freud theory is that the interpretations were as generic and horroscopes are. And there was no logical path way from the dream to the desire. Hence the theory cannot be proved and cannot be disproved.
+- Freud's only contribution was that dreams originate within the brain. Before that dreams were considered something which were influenced by God's and dities.
+- It is not true that recent events have high probability of appearing in dreams. Although there is a high probability that the emotional themes in the dreams are actually the emotions we have experienced during the day or recently.
+- The regions active in the brain during REM sleep are as follows
+  - The region responsible for complext visual perceptions. The back of the brain ie. 
+  - The motor cortex. Responsible for instigating movements.
+  - Hippocampus, the short term memory device which store the memories of the day until we sleep.
+  - Amygdala, the region responsible for emotions
+  All these regions are 30% more active when compared to their activity in the wakeful state.
+- The far end and the far right regions of the prefont cortex ,the place where we place our fingers when we are dissapointed, show less activity. This is the region responsible for rational thought and logical decision making. They can be considered deactivated and hence, logic is thrown out of the window.
+- Monitoring the activity in the brain regions one can tell, what kind of dream someone is dreaming. Emotional, physical etc.
+- Through supervised learning that is by asking people what did they see and mapping it with the brain activity we can predict what did the person see. For example, a car or a garden etc.
+  
