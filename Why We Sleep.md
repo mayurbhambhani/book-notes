@@ -1,4 +1,4 @@
-# Why We Sleep
+## Why We Sleep
 
 <!--@nested-tags:sleep,infants,pregnancy,adoloscence-->
 #sleep
@@ -6,11 +6,11 @@
 #pregnancy
 #adoloscence
 
-## Chapter 1- To Sleep…
+### Chapter 1- To Sleep…
 
 The author talks about how he went into sleep research. It started with his research on predicting what kind of dementia a person will develop in future by observing the brainwave patterns during sleep.
 
-## Chapter 2 Caffeine, Jet Lag and Melatonin.
+### Chapter 2 Caffeine, Jet Lag and Melatonin.
 
 Here we learn about circadian rythm which is our biological clock. This clock is around 24 hrs 15 minutes long. This circadian rhythm is regulated by melatonin which is produced by the suprachiasmatic nucleus in the brain, which calibrates your body clock using the amount of light. Hence melatonin is released at night and this tells your body its time to sleep. It just signals it, it does not generate sleep itself. Hence sleeping pills which induce melatonin secretion only give your body a night time signal. Those pills wont generate sleep but they aim to generate a melatonin generated placebo. When we are sleeping melatonin concentration decreases and is gone with the morning sunlight which is detected even when our eyelids are closed.
 
@@ -32,7 +32,7 @@ Re-reading the same sentence on the digital screen.
 There is a questionnaire included in the book.  
 
 
-## Chapter 3: Defining and Generating Sleep
+### Chapter 3: Defining and Generating Sleep
 
 This chapter talks about REM(Rapid Eye Movement) and NREM(non-REM).
 The sleep is an alternating cycle between these two where in the beginning of the sleep NREM takes major time of the cycle and vice versa in the end.
@@ -47,7 +47,7 @@ NREM state processes this data and transfers the skills and information in long 
 REM state is the integration where this new raw ingredients are connected with each other and the past.
 
 
-## Chapter 4: Who sleeps, How do we Sleep and How Much
+### Chapter 4: Who sleeps, How do we Sleep and How Much
 
 1. Without exception every animal studied to date sleeps or engages in something remarkably like sleep.
 2. Sleep among all organisms differ in 4 ways .Daily duration , amount of REM sleep, the way we sleep(humans lie horizontally, some animals sleep on tree), Change of sleep patterns under rare circumstances( fasting makes us sleep less, some migratory birds can stay sleep deprived for a longer time while migrating ).
