@@ -91,7 +91,7 @@ REM state is the integration where this new raw ingredients are connected with e
 - Them not getting enough sleep contributes to the ageing.
 - As we go to late 20s and 30s, a decline in deep sleep is observed, both in quantity and quality.
 - By the age of 70 we loose 80% of the sleep our young minds enjoyed.
-- Sleeping pills are not a goos solution.
+- Sleeping pills are not a good solution.
 - The older we get the more our sleep is fragmented, and hence the quality of sleep is not that great.
 - Elders should also take care while going to bathrooms during the night due to fragmented sleep and bladder problems. The mind is not completely efficient and is groggy when they wake up during the night and thus they run a risk of falling down. They should always turn on the lights and give their brain a chance to collect itself before getting up from the bed. They should sleep by a nightime light. Have motion sensed light in the bathroom if possible. They should remove obstacles and rugs on their way from bed to the bathroom and there should be a phone by their bed for emergencies.
 - Another issue with sleep in old age is that of circadian rythm. This change asks for an earlier bed time. Hence evening naps are to be avoided.
@@ -123,3 +123,18 @@ REM state is the integration where this new raw ingredients are connected with e
 - Monitoring the activity in the brain regions one can tell, what kind of dream someone is dreaming. Emotional, physical etc.
 - Through supervised learning that is by asking people what did they see and mapping it with the brain activity we can predict what did the person see. For example, a car or a garden etc.
 - Journaling our waking thoughts, feelings , concerns and our dreams is a useful thing to do. As Socrates shared, A meaningful, healthy psychological life is an examined one.
+
+
+### Chapter 10: Dreaming as overnight Therapy
+
+- It was long thought that dreams were simply an epiphenomena(by-product) of REM sleep. But that is not the case.
+- To prove this a simple logic was used. First list down the benefits provided by the REM sleep. Then try to predict from the content of the dreams what REM benefits were recieved by subjects. If the content of the dreams provides us with this predictive power then we can say that REM sleep is not enough on its own to provide those benefits. We need to see specific kind of dreams to avail those benefits.
+- Using the above framework two core benefits of REM sleep were found
+  1. Dreams as overnight therapy, ie. Dreams nursing emotional and mental health.
+  2. Problem solving and creativity
+- REM sleep and dreaming help with emotional health by divorcing the stress from the emotions of the experiences. Thus it takes the edge off.
+- The edge is taken off by supressing the release of noradrenaline during REM sleep. This then forces a kind of emotional replay without the stress.
+- This hence helps us be more emotionally mature and deal with our emotions in a better way. So in a way it is not time tha heals all wounds. It is time spent in REM sleep that heals all wounds.
+- In an interesting experiement, people who were showing signs of depression due to being in tough emotional situations such as breakups/divorces were asked to submit their dream reports. The researchers sifted through them to find out who were dreaming about the same emotional themes as their real life and those were not. After an year all of them were reassessed and it was found that people who were dreaming about their tough emotional experiences an year ago had completely recovered and hence had no signs of depression.
+- PTSD: Mostly seen in war veterans. They complain about reliving the experiences in dreams. It turned out that in PTSD condition the brain was not able to block the release of noradrenaline during REM sleep. Hence they were not able to learn to deal with those emotions. And brain knowing that they have not yet learnt tried to show them the same dream time and again. Giving them a drug which helps block the release of noradrenaline, they were able to dream about the same emotional experience and eventually get over it.
+- Dreaming also retunes (just like a musical instrument) daily our ability to understand facial expresssions. If we are deprived of REM sleep then friends seem foes. We err on the negative side. We gain this retuning ability around adoloscence.
