@@ -1,31 +1,41 @@
 - [Why We Sleep](#why-we-sleep)
-  - [Chapter 1- To Sleep…](#chapter-1--to-sleep)
-  - [Chapter 2 Caffeine, Jet Lag, and Melatonin.](#chapter-2-caffeine-jet-lag-and-melatonin)
-    - [Signs of insufficient sleep](#signs-of-insufficient-sleep)
-  - [Chapter 3: Defining and Generating Sleep](#chapter-3-defining-and-generating-sleep)
-  - [Chapter 4: Who sleeps, How do we Sleep and How Much](#chapter-4-who-sleeps-how-do-we-sleep-and-how-much)
-  - [Chapter 5](#chapter-5)
-    - [Sleep Before Birth](#sleep-before-birth)
-    - [Childhood sleep](#childhood-sleep)
-    - [Sleep Adolescence](#sleep-adolescence)
-    - [Sleep in middle life and old age](#sleep-in-middle-life-and-old-age)
-  - [Why we dream](#why-we-dream)
-  - [Chapter 9: Routinely Psychotic](#chapter-9-routinely-psychotic)
-  - [Chapter 10: Dreaming as overnight Therapy](#chapter-10-dreaming-as-overnight-therapy)
-  - [Chapter 11: Dream creativity and dream control](#chapter-11-dream-creativity-and-dream-control)
-  - [Chapter 12: Sleep Disorders](#chapter-12-sleep-disorders)
-    - [Somnambulism](#somnambulism)
-    - [Insomnia](#insomnia)
-    - [Narcolepsy](#narcolepsy)
-    - [Fatal Familial Insomnia](#fatal-familial-insomnia)
-  - [Chapter 13: What's stopping you from sleeping](#chapter-13-whats-stopping-you-from-sleeping)
-    - [Light](#light)
-    - [Alcohol](#alcohol)
-    - [Temperature](#temperature)
-    - [Alarm clocks.](#alarm-clocks)
+  - [This thing called sleep](#this-thing-called-sleep)
+    - [Chapter 1- To Sleep…](#chapter-1--to-sleep)
+    - [Chapter 2 Caffeine, Jet Lag, and Melatonin.](#chapter-2-caffeine-jet-lag-and-melatonin)
+      - [Signs of insufficient sleep](#signs-of-insufficient-sleep)
+    - [Chapter 3: Defining and Generating Sleep](#chapter-3-defining-and-generating-sleep)
+    - [Chapter 4: Who sleeps, How do we Sleep and How Much](#chapter-4-who-sleeps-how-do-we-sleep-and-how-much)
+    - [Chapter 5](#chapter-5)
+      - [Sleep Before Birth](#sleep-before-birth)
+      - [Childhood sleep](#childhood-sleep)
+      - [Sleep Adolescence](#sleep-adolescence)
+      - [Sleep in middle life and old age](#sleep-in-middle-life-and-old-age)
+  - [Why should you sleep?](#why-should-you-sleep)
+    - [Chapter 6: Your mother and shakespear](#chapter-6-your-mother-and-shakespear)
+      - [Sleep the night before learning](#sleep-the-night-before-learning)
+      - [Sleep the night after learning](#sleep-the-night-after-learning)
+      - [Sleep for motor skills](#sleep-for-motor-skills)
+      - [Sleep for creativity](#sleep-for-creativity)
+    - [Chapter 7](#chapter-7)
+    - [Chapter 8](#chapter-8)
+  - [How and why we dream](#how-and-why-we-dream)
+    - [Chapter 9: Routinely Psychotic](#chapter-9-routinely-psychotic)
+    - [Chapter 10: Dreaming as overnight Therapy](#chapter-10-dreaming-as-overnight-therapy)
+    - [Chapter 11: Dream creativity and dream control](#chapter-11-dream-creativity-and-dream-control)
+  - [From Sleeping pills to society transformed](#from-sleeping-pills-to-society-transformed)
+    - [Chapter 12: Sleep Disorders](#chapter-12-sleep-disorders)
+      - [Somnambulism](#somnambulism)
+      - [Insomnia](#insomnia)
+      - [Narcolepsy](#narcolepsy)
+      - [Fatal Familial Insomnia](#fatal-familial-insomnia)
+    - [Chapter 13: What's stopping you from sleeping](#chapter-13-whats-stopping-you-from-sleeping)
+      - [Light](#light)
+      - [Alcohol](#alcohol)
+      - [Temperature](#temperature)
+      - [Alarm clocks](#alarm-clocks)
 
 
-## Why We Sleep
+# Why We Sleep
 
 ####Tags
 <!--@nested-tags:sleep,infants,pregnancy,adoloscence,ptsd-->
@@ -35,6 +45,8 @@
 #adoloscence
 #ptsd
 #dreams
+
+## This thing called sleep
 
 ### Chapter 1- To Sleep…
 
@@ -136,10 +148,41 @@ The REM state is the integration where these new raw ingredients are connected w
 - The reason deep sleep declines in older age is that the parts of the brain responsible for generating the deep sleep degenerate the first. 
 - As deep sleep is important for cementing facts and muscle memory older people become forgetful.
 
+## Why should you sleep?
+
+### Chapter 6: Your mother and shakespear
+- Sleep heals emotional wounds, helps you learn and remember, gifts you with solutions to challenging problems, and prevents sickness and infection.
+- Sleep is not the absence of wakefulness. It is a complext, metabolically active and ordered series of unique stages.
+- Sleep helps the brain before learning to prepare for making new memories and then after learning to cement those memories and prevent forgeting.
+  
+#### Sleep the night before learning
+- Whatever we learn during the day goes to hippocampus, a long finger shaped structure tucked deep on either side of our brains. It is like a pendrive. Once it is full more information cant be added. The data from hippocampus id transferred to long term memory(the cortex) using the NREM brain waves. Hence deep sleep transfers this data. Failure to sleep will mean that the pendrive would still be full next day and no new information can be added
+- As deep sleep is weak on old adults, hence they cant cram new facts easily. As hippocampus is not completely emptied each night.
+- This data transfer activity is especially more active in the morning hours and hence waking up after six hours also will result in not emptying the hippocampus fully.
+
+#### Sleep the night after learning
+- The facts are cemented and they are shifted to long term memory.
+- Sleep also offers a recover service for corrupted files. Memories you are not able to retrieve are also strengthened during sleep. The memories which are lost soon after learning can be recalled after a good night's sleep.
+- Instructions to brain on what is important and should be retained work. This is called targeted memory activation. We can also inform brain on what is ok to forget and it will do the job.
+- Sleep also cleans the brain of unimportant facts to free up resources.
+
+#### Sleep for motor skills
+- The term muscle memory is a misnomer. Muscle has no memory.
+- Practice a skill enough in the evening and you might not get results. Waking up next mornung after a good nights sleep will do the trick.
+- Practice alone doesn't make perfect. Practice with sleep makes perfect.
+- Motor memories operate below the level of consciousness.
+- Last 2 hours of 8 hr sleep are responsible for this. The NREM during this time strengthens the motor skills. Hence a full night sleep for atheletes is very important.
+
+#### Sleep for creativity
+
+- Daily learning creates small clusters of a graph. All the information we have collected so far forms a forest of various connected components. Dreams connect these connected components. It also performs a path compression in the connected components and thus finds connection in the pieces of information and learnings we have accumulated to solve the problems we are currently focussing on. This boosts creativity and hence REM sleep helps in creativity
+
+### Chapter 7 
+
+### Chapter 8
 
 
-
-### Why we dream
+## How and why we dream
 ### Chapter 9: Routinely Psychotic
 
 - Opposed to NREM sleep when compared to the wakeful state there is less activity in the brain, in REM the activity is more than the wakeful state.
@@ -190,6 +233,7 @@ The REM state is the integration where these new raw ingredients are connected w
 - It was difficult to prove the claims of lucid dreaming. But an experiment in 2013 proved it. Participants who claimed could lucid dream were made to clinch their right and left fist while they were awake and the brain activity was recorded. Then they went to sleep and enter the REM stage. The fact they were dreaming could be verified from the relaxed muscles (atonia) and their brain wave pattern. As the eye movement is not blocked under REM sleep paralysis, the lucid dreamers were told to signal their dream awareness via a three-time left side eye movement. Then in their dream, they clenched their right fist and left fist. The fist itself won't show the movement of course because of the sleep paralysis but the brain activity was similar to what was recorded while they were awake.
 - 20% of people can lucid dream and it is yet unclear whether it is beneficial or not.
 
+## From Sleeping pills to society transformed
 
 ### Chapter 12: Sleep Disorders
  - There are more than 100 known sleep disorders. This chapter covers a few of them
@@ -273,7 +317,7 @@ The REM state is the integration where these new raw ingredients are connected w
 - Head, palms, and feet radiate heat to accomplish the temperature drop. Hence we sometimes keep our feet and hands out of the blanket. 
 - Washing the face helps, Warm bath helps because it makes the blood rise to the skin and radiate heat.
 
-#### Alarm clocks.
+#### Alarm clocks
 
 - They jolt you into wakefulness. That shock is not good for the blood pressure and the heart.
 - Snooze is even worse.
