@@ -5,24 +5,24 @@
       - [Signs of insufficient sleep](#signs-of-insufficient-sleep)
     - [Chapter 3: Defining and Generating Sleep](#chapter-3-defining-and-generating-sleep)
     - [Chapter 4: Who sleeps, How do we Sleep and How Much](#chapter-4-who-sleeps-how-do-we-sleep-and-how-much)
-    - [Chapter 5](#chapter-5)
+    - [Chapter 5: Changes in sleep across the lifespan](#chapter-5-changes-in-sleep-across-the-lifespan)
       - [Sleep Before Birth](#sleep-before-birth)
       - [Childhood sleep](#childhood-sleep)
       - [Sleep Adolescence](#sleep-adolescence)
       - [Sleep in middle life and old age](#sleep-in-middle-life-and-old-age)
   - [Why should you sleep?](#why-should-you-sleep)
-    - [Chapter 6: Your mother and shakespear](#chapter-6-your-mother-and-shakespear)
+    - [Chapter 6: Benefits of Sleep](#chapter-6-benefits-of-sleep)
       - [Sleep the night before learning](#sleep-the-night-before-learning)
       - [Sleep the night after learning](#sleep-the-night-after-learning)
       - [Sleep for motor skills](#sleep-for-motor-skills)
       - [Sleep for creativity](#sleep-for-creativity)
-    - [Chapter 7](#chapter-7)
+    - [Chapter 7: Sleep deprivation and the brain](#chapter-7-sleep-deprivation-and-the-brain)
     - [Chapter 8](#chapter-8)
   - [How and why we dream](#how-and-why-we-dream)
     - [Chapter 9: Routinely Psychotic](#chapter-9-routinely-psychotic)
     - [Chapter 10: Dreaming as overnight Therapy](#chapter-10-dreaming-as-overnight-therapy)
     - [Chapter 11: Dream creativity and dream control](#chapter-11-dream-creativity-and-dream-control)
-  - [From Sleeping pills to society transformed](#from-sleeping-pills-to-society-transformed)
+  - [From Sleeping pills to a society transformed](#from-sleeping-pills-to-a-society-transformed)
     - [Chapter 12: Sleep Disorders](#chapter-12-sleep-disorders)
       - [Somnambulism](#somnambulism)
       - [Insomnia](#insomnia)
@@ -104,7 +104,7 @@ The REM state is the integration where these new raw ingredients are connected w
 
 
 
-### Chapter 5
+### Chapter 5: Changes in sleep across the lifespan
 
 #### Sleep Before Birth
 - Most of the time is spent in sleep.
@@ -150,34 +150,65 @@ The REM state is the integration where these new raw ingredients are connected w
 
 ## Why should you sleep?
 
-### Chapter 6: Your mother and shakespear
+### Chapter 6: Benefits of Sleep
 - Sleep heals emotional wounds, helps you learn and remember, gifts you with solutions to challenging problems, and prevents sickness and infection.
-- Sleep is not the absence of wakefulness. It is a complext, metabolically active and ordered series of unique stages.
-- Sleep helps the brain before learning to prepare for making new memories and then after learning to cement those memories and prevent forgeting.
+- Sleep is not the absence of wakefulness. It is a complex, metabolically active, and ordered series of unique stages.
+- Sleep helps the brain before learning to prepare for making new memories and then after learning to cement those memories and prevent forgetting.
   
 #### Sleep the night before learning
-- Whatever we learn during the day goes to hippocampus, a long finger shaped structure tucked deep on either side of our brains. It is like a pendrive. Once it is full more information cant be added. The data from hippocampus id transferred to long term memory(the cortex) using the NREM brain waves. Hence deep sleep transfers this data. Failure to sleep will mean that the pendrive would still be full next day and no new information can be added
-- As deep sleep is weak on old adults, hence they cant cram new facts easily. As hippocampus is not completely emptied each night.
+- Whatever we learn during the day goes to the hippocampus, a long finger-shaped structure tucked deep on either side of our brains. It is like a pendrive. Once it is full more information cant be added. The data from the hippocampus is transferred to long-term memory(the cortex) using the NREM brain waves. Hence deep sleep transfers this data. Failure to sleep will mean that the pendrive would still be full the next day and no new information can be added
+- As deep sleep is weak on old adults, hence they cant cram new facts easily. As the hippocampus is not completely emptied each night.
 - This data transfer activity is especially more active in the morning hours and hence waking up after six hours also will result in not emptying the hippocampus fully.
 
 #### Sleep the night after learning
-- The facts are cemented and they are shifted to long term memory.
-- Sleep also offers a recover service for corrupted files. Memories you are not able to retrieve are also strengthened during sleep. The memories which are lost soon after learning can be recalled after a good night's sleep.
-- Instructions to brain on what is important and should be retained work. This is called targeted memory activation. We can also inform brain on what is ok to forget and it will do the job.
+- The facts are cemented and they are shifted to long-term memory.
+- Sleep also offers a recovery service for corrupted files. Memories you are not able to retrieve are also strengthened during sleep. The memories which are lost soon after learning can be recalled after a good night's sleep.
+- Instructions to the brain on what is important and should be retained work. This is called targeted memory activation. We can also inform the brain on what is ok to forget and it will do the job.
 - Sleep also cleans the brain of unimportant facts to free up resources.
 
 #### Sleep for motor skills
 - The term muscle memory is a misnomer. Muscle has no memory.
-- Practice a skill enough in the evening and you might not get results. Waking up next mornung after a good nights sleep will do the trick.
+- Practice a skill enough in the evening and you might not get results. Waking up the next morning after a good night's sleep will do the trick.
 - Practice alone doesn't make perfect. Practice with sleep makes perfect.
 - Motor memories operate below the level of consciousness.
-- Last 2 hours of 8 hr sleep are responsible for this. The NREM during this time strengthens the motor skills. Hence a full night sleep for atheletes is very important.
+- Last 2 hours of 8 hr sleep are responsible for this. The NREM during this time strengthens motor skills. Hence a full night's sleep for athletes is very important.
 
 #### Sleep for creativity
 
 - Daily learning creates small clusters of a graph. All the information we have collected so far forms a forest of various connected components. Dreams connect these connected components. It also performs a path compression in the connected components and thus finds connection in the pieces of information and learnings we have accumulated to solve the problems we are currently focussing on. This boosts creativity and hence REM sleep helps in creativity
 
-### Chapter 7 
+### Chapter 7: Sleep deprivation and the brain
+
+- Struck by the weight of damning scientific evidence, the Guinness book of world records has stopped recognizing attempts to break the sleep deprivation world records. Considering what kind of risk attempts they recognize, we should get a fair idea of how dangerous is sleep deprivation.
+- Sleep deprivation may cause following neurological and psychiatric conditions
+  - Alzheimer's
+  - Anxiety
+  - Depression
+  - Bipolar disorder
+  - Suicide
+  - Stroke
+  - Chronic pain
+- Sleep deprivation may cause the following physiological issues
+  - Cancer
+  - Diabetes
+  - Heart Attacks
+  - Infertility
+  - Weight Gain
+  - Obesity
+  - Immune Deficiency
+- Drowsy driving is equivalent to drunk driving. This happens because of total sleep or microsleep while driving.
+- Sleeping only 7 hrs a day for 10 days causes sleep deprivation equal to not sleeping for 24 hrs straight.
+- We don't know how sleep-deprived we are. Because of habitual less sleep we acclimatize to the new lowered level of alertness.
+- The heady cocktail of sleep deprivation and drunk driving does not add the bad effects. It multiplies them. Wake up at 7, go for drinks in the evening. Have some drinks and return around 2 am. This is a recipe for disaster.
+- Power naps came into existence when pilots had to decide on the timing of a 40-120 minute nap during a 36 hrs flight. It is not an alternative to 8 hrs of regular sleep.
+- The odds are 1 in 12k that you are the person who can survive on 5 hrs of sleep.
+- Sleep deprivation also makes us emotionally irrational. Amygdala is the gas pedal for emotions and the pre-frontal cortex is the brake pedal. Sleep deprivation causes too much gas pedal and not enough brake pedal. Hence there are a lot of mood swings of high range.
+- The negative extreme of the mood swing causes depression, the positive extreme causes sensation-seeking addiction, risk-taking. It might cause relapse in people after rehab.
+- Trading sleep for learning is not a good idea. We won't learn much and whatever we learn would be short-term.
+- If you fail to get a good night's sleep the first night after learning, you lose the chance to consolidate those memories, and even if you catchup in the coming days it won't happen.
+
+
+
 
 ### Chapter 8
 
@@ -233,7 +264,7 @@ The REM state is the integration where these new raw ingredients are connected w
 - It was difficult to prove the claims of lucid dreaming. But an experiment in 2013 proved it. Participants who claimed could lucid dream were made to clinch their right and left fist while they were awake and the brain activity was recorded. Then they went to sleep and enter the REM stage. The fact they were dreaming could be verified from the relaxed muscles (atonia) and their brain wave pattern. As the eye movement is not blocked under REM sleep paralysis, the lucid dreamers were told to signal their dream awareness via a three-time left side eye movement. Then in their dream, they clenched their right fist and left fist. The fist itself won't show the movement of course because of the sleep paralysis but the brain activity was similar to what was recorded while they were awake.
 - 20% of people can lucid dream and it is yet unclear whether it is beneficial or not.
 
-## From Sleeping pills to society transformed
+## From Sleeping pills to a society transformed
 
 ### Chapter 12: Sleep Disorders
  - There are more than 100 known sleep disorders. This chapter covers a few of them
