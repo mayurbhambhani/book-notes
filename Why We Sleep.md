@@ -13,6 +13,11 @@
   - [Chapter 9: Routinely Psychotic](#chapter-9-routinely-psychotic)
   - [Chapter 10: Dreaming as overnight Therapy](#chapter-10-dreaming-as-overnight-therapy)
   - [Chapter 11: Dream creativity and dream control](#chapter-11-dream-creativity-and-dream-control)
+  - [Chapter 12: Sleep Disorders](#chapter-12-sleep-disorders)
+    - [Somnambulism](#somnambulism)
+    - [Insomnia](#insomnia)
+    - [Narcolepsy](#narcolepsy)
+    - [Fatal Familial Insomnia](#fatal-familial-insomnia)
 
 
 ## Why We Sleep
@@ -179,3 +184,57 @@ The REM state is the integration where these new raw ingredients are connected w
 - Lucid dreaming: Lucid dream occurs the moment one realizes he/she is in a dream.
 - It was difficult to prove the claims of lucid dreaming. But an experiment in 2013 proved it. Participants who claimed could lucid dream were made to clinch their right and left fist while they were awake and the brain activity was recorded. Then they went to sleep and enter the REM stage. The fact they were dreaming could be verified from the relaxed muscles (atonia) and their brain wave pattern. As the eye movement is not blocked under REM sleep paralysis, the lucid dreamers were told to signal their dream awareness via a three-time left side eye movement. Then in their dream, they clenched their right fist and left fist. The fist itself won't show the movement of course because of the sleep paralysis but the brain activity was similar to what was recorded while they were awake.
 - 20% of people can lucid dream and it is yet unclear whether it is beneficial or not.
+
+
+### Chapter 12: Sleep Disorders
+ - There are more than 100 known sleep disorders. This chapter covers a few of them
+ - For advice on sleep disorders visit USA's [National Sleep Foundation](https://www.sleepfoundation.org)
+ - This chapter will cover somnambulism, insomnia, narcolepsy, and fatal familial insomnia
+
+#### Somnambulism
+- Sleepwalking, sleep talking, sleep eating, sleep texting, sleep sex and sleep homicide(very very rare) come under somnambulism
+- These events happen under NREM, not in REM as is popularly believed
+- The brain activity is the same as in NREM. The body then only can perform rehearsed movements.
+- Sleepwalking is common. More common in children as compared to adults.
+- The famous case of [Kenneth Parks](https://en.wikipedia.org/wiki/R_v_Parks) who sleepwalked to kill his in-laws and while coming back woke up and surrendered.
+- Most somnambulistic episodes are considered benign and medicine only interferes when a family member's sleepwalking poses a risk.
+
+#### Insomnia
+
+- Most common sleep disorder
+- People suffering from insomnia are not able to generate sleep of sufficient quality/quantity even if they give themselves enough sleep opportunity (7-9hrs)
+- Some people feel they are going through insomnia but they are not. On monitoring, they sleep well. This is called paradoxical insomnia
+- There are two types of insomnia
+  - Sleep onset insomnia: Difficulty falling asleep.
+  - Sleep maintenance insomnia: Difficulty staying asleep.
+- For a diagnosis of insomnia following conditions should be met
+  - Dissatisfaction with sleep quantity(difficulty falling asleep, staying asleep, early morning awakening)
+  - Suffering significant distress or daytime impairment
+  - Insomnia for at least three nights each week for more than three months.
+  - Does not have any coexisting medical conditions that could otherwise cause what appears to be insomnia
+- Sleeping pills are rarely the right answer. A better solution would be presented in further chapters
+- Insomnia is almost twice as common in women as in men
+- African Americans and Hispanics appear to have higher rates of insomnia compared to Caucasians
+- External factors which can cause insomnia are too much bright light at night, the wrong ambient room temperature, caffeine, tobacco, and alcohol consumption. If these causes are removed insomnia will go away.
+-  Internal causes can be genetics, emotional worries, anxiety.
+  
+
+#### Narcolepsy
+
+- It is a neurological disorder
+- The body is always in the midpoint of sleep and wakeful condition. Hence weird things happen
+- The condition usually emerges between the ages of 10 and 20.
+- Symptoms
+  - Irresistible urge to sleep during the day. So strong that the patient feels like he has been sleep-deprived for three days.
+  - Frequent Sleep Paralysis
+  - Cataplexy: Complete loss of muscle control, collapsing like a puppet when the string is cut, just like sleep paralysis but while being awake and conscious. This happens when the patient feels positive and negative emotions.
+- This happens because the switch that the brain has which turns off while we sleep and turns on when we wake up, is half turned on and half turned on in this condition.
+- The treatment outlook is bleak in narcoleptic patients and there is no treatment in sight. The only option is controlling emotions.
+
+#### Fatal Familial Insomnia
+
+- The famous case of [Michael Corke](https://www.world-of-lucid-dreaming.com/the-man-who-never-slept.html) who suddenly couldn't sleep and died in 10 months because of total sleep deprivation.
+- This happens because of a gene anomaly and is genetically inherited.
+
+
+- Sleep deprivation will eventually cause death and this generally happens because the immune system gets very weak and the bacteria in our intestine will start attacking our body.
