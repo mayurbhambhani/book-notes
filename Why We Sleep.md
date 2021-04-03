@@ -17,7 +17,7 @@
       - [Sleep for motor skills](#sleep-for-motor-skills)
       - [Sleep for creativity](#sleep-for-creativity)
     - [Chapter 7: Sleep deprivation and the brain](#chapter-7-sleep-deprivation-and-the-brain)
-    - [Chapter 8](#chapter-8)
+    - [Chapter 8: Sleep Deprivation and the body](#chapter-8-sleep-deprivation-and-the-body)
   - [How and why we dream](#how-and-why-we-dream)
     - [Chapter 9: Routinely Psychotic](#chapter-9-routinely-psychotic)
     - [Chapter 10: Dreaming as overnight Therapy](#chapter-10-dreaming-as-overnight-therapy)
@@ -188,14 +188,6 @@ The REM state is the integration where these new raw ingredients are connected w
   - Suicide
   - Stroke
   - Chronic pain
-- Sleep deprivation may cause the following physiological issues
-  - Cancer
-  - Diabetes
-  - Heart Attacks
-  - Infertility
-  - Weight Gain
-  - Obesity
-  - Immune Deficiency
 - Drowsy driving is equivalent to drunk driving. This happens because of total sleep or microsleep while driving.
 - Sleeping only 7 hrs a day for 10 days causes sleep deprivation equal to not sleeping for 24 hrs straight.
 - We don't know how sleep-deprived we are. Because of habitual less sleep we acclimatize to the new lowered level of alertness.
@@ -210,7 +202,42 @@ The REM state is the integration where these new raw ingredients are connected w
 
 
 
-### Chapter 8
+### Chapter 8: Sleep Deprivation and the body
+
+- Sleep deprivation may cause the following physiological issues
+  - Cancer
+  - Diabetes
+  - Heart Attacks
+  - Infertility
+  - Weight Gain
+  - Obesity
+  - Immune Deficiency
+- High Blood pressure. Lowers HLD
+- When in march people are forced to sleep less in the US due to daylight savings, there is a rise in heart attacks the following morning.
+- And then again when people get an extra hr in November. The heart attack rates plummet.
+- The less you sleep the more likely you are to eat and the affected metabolism won't be able to regulate the blood sugar. Hence you will gain weight and develop a risk of type 2 diabetes.
+- The hormone insulin triggers the absorption of blood glucose from the cells. Being sleep-deprived affects insulin secretion and absorption. But the effect on the latter is much more pronounced.
+- The body has two hunger-related hormones. One signals that we are full and is called leptin and the other signals we are hungry and is called ghrelin. Sleep deprivation decreases leptin and increases ghrelin. Hence it is kind of double jeopardy. The body is punished twice for the same crime and sleep deprivation will cause overeating.
+- Not only will you overeat. You will prefer high-calorie foods with a lot of sugar and salt content. Similar to the craving for munchies after weed.
+- As the prefrontal cortex is affected, good judgment is affected and your brain will become primitive and try to consume as much of the available calories as possible.
+- Sleep loss affects testosterone levels and ages a man by 10-15 years in terms of testosterone virility.
+- Symptoms of low testosterone like
+  - Feeling tired and fatigued throughout the day
+  - Difficulty with focus.
+  - Low libido
+  - Low bone density.
+  - Difficulty in building muscle mass.
+-  Women are equally affected
+   -  The hormone-related to follicular release before ovulation and necessary for conception drops.
+   -  Increases the probability of abnormal menstrual cycles.
+   -  Decreases the probability of pregnancy.
+   -  Increases the probability of miscarriages in the first trimester.
+-  Think of the couple who is not sleeping well and then think about their chances of conceiving.
+-  Sleep loss also affects immunity. 
+-  Sleeping better also makes the body respond better to vaccines by generating a good amount of antibodies. Important to sleep well the day you got the vaccine shot.
+-  Due to immunity issues, the body's killer cells don't work and are not able to clean the cancerous cells, and chances of cancers increase. Night shift jobs are hence carcinogenic.
+-  DNA and gene mutation are also possible because of sleep deprivation, 
+    
 
 
 ## How and why we dream
