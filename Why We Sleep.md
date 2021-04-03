@@ -1,4 +1,5 @@
 - [Why We Sleep](#why-we-sleep)
+  - [Tags](#tags)
   - [This thing called sleep](#this-thing-called-sleep)
     - [Chapter 1- To Sleep…](#chapter-1--to-sleep)
     - [Chapter 2 Caffeine, Jet Lag, and Melatonin.](#chapter-2-caffeine-jet-lag-and-melatonin)
@@ -33,11 +34,13 @@
       - [Alcohol](#alcohol)
       - [Temperature](#temperature)
       - [Alarm clocks](#alarm-clocks)
+    - [Chapter 14: Pills vs therapy](#chapter-14-pills-vs-therapy)
 
 
 # Why We Sleep
 
-####Tags
+
+## Tags
 <!--@nested-tags:sleep,infants,pregnancy,adoloscence,ptsd-->
 #sleep
 #infants
@@ -45,6 +48,7 @@
 #adoloscence
 #ptsd
 #dreams
+#CBT
 
 ## This thing called sleep
 
@@ -380,3 +384,16 @@ The REM state is the integration where these new raw ingredients are connected w
 - They jolt you into wakefulness. That shock is not good for the blood pressure and the heart.
 - Snooze is even worse.
 - Waking up at the same time every day reduces the need for an alarm clock.
+
+
+### Chapter 14: Pills vs therapy
+
+- Sleeping pills do not provide natural sleep. They are just sedatives. They operate as alcohol operates. By knocking down the brain.
+- The electric brainwave quality of pill-generated sleep shows that it is not restorative as natural sleep. 
+- Hence, immunity is compromised and the chances of death due to different causes increase in pill takers by 5 times. Other effects are next-day grogginess, slow reaction time, forgetfulness
+- As these pills are addictive, leaving them has withdrawal which manifests itself as insomnia worse than it was before the patient started taking the pills. Hence the patient goes back to popping pills. This is called rebound insomnia.
+- On top of it research proves that there is no benefit of taking these pills but there are a lot of disadvantages.
+- Cognitive Behavioral Therapy (CBT) should be the first line of defense against insomnia. It is rapidly being accepted by the US medicine community as such.
+- CBT builds on good sleep-related habits called sleep hygiene supplemented with methods customized for the patient depending on the patient's lifestyle.
+- [12 tips for a good night's sleep](https://www.nia.nih.gov/health/good-nights-sleep) 
+  
