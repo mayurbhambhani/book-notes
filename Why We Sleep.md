@@ -18,6 +18,11 @@
     - [Insomnia](#insomnia)
     - [Narcolepsy](#narcolepsy)
     - [Fatal Familial Insomnia](#fatal-familial-insomnia)
+  - [Chapter 13: What's stopping you from sleeping](#chapter-13-whats-stopping-you-from-sleeping)
+    - [Light](#light)
+    - [Alcohol](#alcohol)
+    - [Temperature](#temperature)
+    - [Alarm clocks.](#alarm-clocks)
 
 
 ## Why We Sleep
@@ -238,3 +243,38 @@ The REM state is the integration where these new raw ingredients are connected w
 
 
 - Sleep deprivation will eventually cause death and this generally happens because the immune system gets very weak and the bacteria in our intestine will start attacking our body.
+
+
+### Chapter 13: What's stopping you from sleeping
+
+#### Light
+- Being exposed to light in the evening tricks our brain into believing that the sun is not set yet. Hence melatonin is not secreted in good amounts.
+- Incandescent light is bad. LED light/ blue light is worse. And staring at the screen just before sleeping is worst. Even kindle has the blue light but way less compared to cell phones and tabs. Reading before bed should be done from a physical book.
+- Light is the reason it takes time for us to fall asleep. After the room is dark, it takes around 20 minutes for the brain to secrete enough melatonin to generate sleep.
+- Steps to improve the situation:-
+  - Have dim lights in the rooms where you spend the evening hours
+  - Avoid bright overhead lights.
+  - Yellow tinted glasses
+  - Install software on your devices to unsaturate the blue light
+
+#### Alcohol
+ - Alcohol is a sedative. It works by reducing brain function and starts with the pre-frontal cortex. Hence we lose inhibitions.
+ - Alcohol fragments sleep. Hence the sleep is not continuous and as a result not restorative. The sleeper doesn't know about the nighttime awakenings.
+ - Alcohol is also one of the most potent suppressors of REM sleep.
+ - Due to this, [delerium tremens](https://en.wikipedia.org/wiki/Delirium_tremens) can be caused. This is hallucinations and disorientation during the day.
+ - Whatever we learn during the day is integrated during REM sleep. It takes weeks to cement the learning. But drinking alcohol makes us lose the learnings to a certain extent. Learn something on Monday, go for drinks on Friday and 40% of your learning may be gone.
+ - The only solution is drinking during the daytime, so by sleep time, you are out of the effects of the alcohol, or pure abstinence.
+
+#### Temperature
+
+- Although underappreciated, temperature plays an important role.
+- Body needs to bring down the core temperature by 1 C to help melatonin secretion.
+- 18.3 C is optimal. 12.5 is too cold.
+- Head, palms, and feet radiate heat to accomplish the temperature drop. Hence we sometimes keep our feet and hands out of the blanket. 
+- Washing the face helps, Warm bath helps because it makes the blood rise to the skin and radiate heat.
+
+#### Alarm clocks.
+
+- They jolt you into wakefulness. That shock is not good for the blood pressure and the heart.
+- Snooze is even worse.
+- Waking up at the same time every day reduces the need for an alarm clock.
