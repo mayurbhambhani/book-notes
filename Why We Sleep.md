@@ -36,6 +36,7 @@
       - [Alarm clocks](#alarm-clocks)
     - [Chapter 14: Pills vs therapy](#chapter-14-pills-vs-therapy)
     - [Chapter 15: Sleep and Society](#chapter-15-sleep-and-society)
+    - [Chapter 16: A new vision for sleep in the 21st Century](#chapter-16-a-new-vision-for-sleep-in-the-21st-century)
 
 
 # Why We Sleep
@@ -417,3 +418,19 @@ The REM state is the integration where these new raw ingredients are connected w
 - The benefits of late school start times are many. Better attendance, better academic performance, reduces behavioral and psychological issues, and decreases substance and alcohol use. Late start times also mean late end times, which means kids are not left alone at home while the parents are at work and hence are better monitored. 
 - School bus schedules and bus unions are major hurdles in fixing this. Also, the need of the parents to get kids out of the house and start their work early is another such need.
 - In health care too, the budding medical professionals are required to work 30 hrs shifts and consequently, they make mistakes. They are a threat to themselves and their patients. It should be mandated that a medical professional awake for the past 16 hrs is not fit to treat/operate on patients. It is like letting drunk medical professionals treat patients. As their learning years are also impacted by this sleep deprivation and the problem becomes even worse.
+
+
+### Chapter 16: A new vision for sleep in the 21st Century
+
+- This chapter talks about how we can bring about change that helps individuals and society as a whole to improve sleep.
+- Technology is one cause for worsening sleeping conditions but we must realize that escape from technology is not the solution. Using technology for sleep betterment is the solution.
+- If people are tracking their sleep, health, and their environment with technology then using machine learning algorithms we can automatically tailor the environment according to a person's needs. This can be done by temperature and light control which supports the circadian rhythm of an individual.
+- Putting the same devices in cars and workplaces we can ensure that blue light in cars will cause more alert drivers and light-controlled cubicles will result in more productive employees.
+- Apps can show people, using tracking devices, how bad sleep is affecting their heart rate, blood pressure, weight, sex life, etc, and then show improvements as they try to improve their sleep. This will enforce positive behavior. We can also show them predictions on how better they will look if they continue the good sleeping habit for the next few months and years.
+- Raise awareness among kids in school to change the next generation's culture via board/digital games.
+- Employers should incentivize employees with better sleep routines by verified data. Car and health insurance companies can also provide better rates to people who sleep better if the individuals are willing to share their sleep data. The same data can be used to create a sleep version of the alcohol's breath analyzer test to detect drowsy driving.
+- Based on the sleep patterns, tech should also determine on a per individual basis when should they get their vaccines.
+- The work shifts in workplaces should be flexible with the concept of core hours when everybody is available for interaction and that can be 12 to 3. The employees then can work around their circadian rhythms.
+- Sleep-deprivation causes the body and brain to feel more pain. Hence hospitals should reduce the noise pollution in every room. They should also regulate lighting to fit the patients' circadian rhythm and the doctor visit schedule should be tailored around the patient's circadian rhythms preferences. This information should be taken in the initial form the patient fills while getting admitted. This would reduce the consumption of harmful and strong pain killers like morphine. Which by the way is sedative and does not cause restorative sleep.
+- NICUs where premature babies are kept should have better lighting which helps them sleep throughout the day. If not that they should at least have a plastic black cover over their baby cots to help them sleep. Data shows that such measures help improve baby weight, blood-oxygen levels, and overall health and cause earlier discharge from the hospital.
+- Educating people about drowsy driving can save a lot of lives and a lot of money.
