@@ -35,6 +35,7 @@
       - [Temperature](#temperature)
       - [Alarm clocks](#alarm-clocks)
     - [Chapter 14: Pills vs therapy](#chapter-14-pills-vs-therapy)
+    - [Chapter 15: Sleep and Society](#chapter-15-sleep-and-society)
 
 
 # Why We Sleep
@@ -397,3 +398,22 @@ The REM state is the integration where these new raw ingredients are connected w
 - CBT builds on good sleep-related habits called sleep hygiene supplemented with methods customized for the patient depending on the patient's lifestyle.
 - [12 tips for a good night's sleep](https://www.nia.nih.gov/health/good-nights-sleep) 
   
+
+### Chapter 15: Sleep and Society
+
+- Number of People who are sleeping only 6hrs or less around the week and trying to catch up on the weekends are shooting up around the world.
+- But we already know from the prior parts of this book that the brain can never fully catch up on lost sleep.
+- A good night's sleep increases productivity. But people who trade sleep for work are praised and rewarded.
+- Under-slept employees are not only less productive, less motivated, less creative, and lazier but they are also more ethical(as their prefrontal cortex is tired their impulse control is hampered).
+- Supervisors who sleep less are short with the employees are disengaged, which results in the employees also getting disengaged.
+- Under-slept leaders seem less charismatic and under-slept employees perceive their superiors as less charismatic than they are. If the boss and employees both are underslept the perceived charisma of the leader is badly affected.
+- Sleeping better increases your money-making prospects due to increased performance.
+- Companies like Nike and Google realize the importance of sleep and have flexible schedules and sleep pods in the office.
+- NASA discovered that short naps of around 26 minutes and increase the performance by 34 percent.
+- Sleep loss is used as torture by military and government agencies. The author voiced his concerns against that. Sleep is a basic necessity like food and water. 
+- It has been found out by research studies conducted among various schools and a lot of twin studies that kids who sleep better get more intelligent as they grow up and have better IQs. Hence early start times of school are a bad thing for society as a whole. We are stopping the kids from realizing their complete potential. 
+- A study conducted in the 1960s aimed to disrupt the REM sleep of some school kids for 7 days straight found out that it only took three days for the kids to exhibit psychotic symptoms. In three days the kids became moody, anxious and started to hallucinate. Paranoia took over them and they thought that the researchers are from a secret government agency that is trying to kill them.
+- Kids sleep deprived because of early start times will be irritable, moodier, distractible, and unfocused. Without the info that they are sleep deprived the doctorS will diagnose them for ADHD. He will then prescribe Adderall/Ritalin which are high-powered addictive drugs that cause dependency and the kid is then badly affected. Because of these drugs, the kid's restorative sleep quality will be further affected and it will go on in a loop.
+- The benefits of late school start times are many. Better attendance, better academic performance, reduces behavioral and psychological issues, and decreases substance and alcohol use. Late start times also mean late end times, which means kids are not left alone at home while the parents are at work and hence are better monitored. 
+- School bus schedules and bus unions are major hurdles in fixing this. Also, the need of the parents to get kids out of the house and start their work early is another such need.
+- In health care too, the budding medical professionals are required to work 30 hrs shifts and consequently, they make mistakes. They are a threat to themselves and their patients. It should be mandated that a medical professional awake for the past 16 hrs is not fit to treat/operate on patients. It is like letting drunk medical professionals treat patients. As their learning years are also impacted by this sleep deprivation and the problem becomes even worse.
