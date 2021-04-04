@@ -8,7 +8,7 @@
 
 ### Introduction
 
-- Liberterial Paternalism. This is the central idea of the book. Nudging people in the right direction without compromising freedom of choice.
+- **Liberterial Paternalism**. This is the central idea of the book. Nudging people in the right direction without compromising freedom of choice.
 - Whenever a system is designed certain factors will present choices to its user. A choice architect is a person who is, knowingly or unknowingly, responsible for the arrangement of those choices. Depending on the default option a lot of user behavior is influenced.
 - Example: Amsterdam airport men urinals have a fly sticker in them. This simple change made men aim better and decreased the mess by 80%
 - Example: The way the food is arranged or displayed in the cafeteria can be used to influence kids to choose healthy foods. 
