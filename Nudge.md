@@ -4,6 +4,9 @@
     - [Chapter 1: Blunder And Biases](#chapter-1-blunder-and-biases)
     - [Chapter 2: Resisting Temptation](#chapter-2-resisting-temptation)
     - [Chapter 3: Following the herd.](#chapter-3-following-the-herd)
+    - [Chapter 4: When Do We Need A Nudge](#chapter-4-when-do-we-need-a-nudge)
+      - [Situations that need a nudge](#situations-that-need-a-nudge)
+      - [Markets](#markets)
 
 
 # Nudge
@@ -80,4 +83,24 @@
 - Parents also use the same technique. They tell their kids how other kids behave properly and they should too.
 - **Priming**: Asking questions to gain commitment. If you ask people that are they planning to eat unhealthy this week then their affirmative response will increase the food choices they are going to make. Results would be even better if they are asked about the specifics. For example, how are you going to eat healthily, what items are you going to choose as your diet? In case of asking about exercising, one can increase the level of commitment by simply asking when and where do they plan to exercise. Hence, the nudge provided by asking them what to do can be enhanced by asking them how they plan to do it.
 - Information, Peer pressure, and Priming can be effectively used as social nudges.
+
+### Chapter 4: When Do We Need A Nudge
+
+- The goal of this chapter is: 
+  - Specifying the kinds of situations in which people are least likely to make good choices.
+  - Specifying when the free market forces and competition will exacerbate the human nature of making bad choices.
+
+#### Situations that need a nudge
+
+- Benefits now and costs later: Eating high-calorie foods, smoking, drinking are sinful goods. Excercise now and good health later are investment goods. Both investment and sinful goods are prime candidates for nudges.
+- Degree of difficulty: When the problem at hand is a difficult one and there are no tools available for the automated best choice.
+- Frequency: If the problem is hard, people can learn through practice. But are some important events that happen with very low frequency during a lifetime. Getting married, Choosing a career, etc. Due to low-frequency humans cant practice and hone the skill of making the right choices in such events. Hence then can use help in the form of a nudge.
+- Feedback: Even if the frequency is high, one can only learn if they get feedback after every attempt. Ex. someone can eat a high-fat diet for years without having any warning signs until the heart attack.
+- Knowing what you like: People can use a nudge in the right direction which they don't know which options they like. Choosing a mutual fund, choosing an insurance plan. When we don't know what is good for us we might appreciate a nudge.
+
+#### Markets
+
+- General assumption is the fair forces of the competition in the market will always make sure that consumers will get quality goods at competitive prices. But there are some cases where this logic doesn't apply. Take the example of a second-year warranty on a cell phone which costs 20% of the phone cost which let us say is $200. If the probability of the phone needing repair is 1% in the second year then by not taking the extended warranty the risk we are taking is just $2. But we are been asked to pay 20$ which is outrageous. And people buy these guarantees just because they don't want to feel sorry later. Market forces cant help in such cases, because it is not easy for a 3rd party to get into this agreement. Consumers then will need a nudge in the right direction.
+
+
 
