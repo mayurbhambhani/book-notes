@@ -14,6 +14,8 @@
       - [Understand Mappings](#understand-mappings)
       - [Structure Complex Choices](#structure-complex-choices)
       - [Incentives](#incentives)
+  - [Part 2: Money](#part-2-money)
+    - [Chapter 6: Save More Tomorrow](#chapter-6-save-more-tomorrow)
 
 
 # Nudge
@@ -165,5 +167,45 @@
 - Phone displaying the cost of trunk calls as we are talking
 - Calorie burning display while running.
 - Apps that can predict and remind how your face will look like after 5 years of smoking.
+
+## Part 2: Money
+
+- Econs save better, spend and borrow thoughtfully, and invest better.
+- Humans are not Econs.
+- This part will tell use how private organizations and government can nudge people in the right ridrection
+
+### Chapter 6: Save More Tomorrow
+
+- The theory of saving for retirement is simple. Figure out when you are going to retrire, figure out your expenses after retirement and start saving accordingly without sacrificing too much while they are working.
+- Assuming that people can actually save for retirement assumes that
+  - People are able to solve the complex mathematical problem for calculating how much money that will actually need.
+  - They have enough willpower and discipline to execute the plan.
+- Ealry pention schems were defined-benefit plans. The pension you get was proportional to salary paid in your last working years. The proportion depending the number of years you worked there.
+- Social security checks in America depends the amount of tax you have paid in your working years. The payouts are adjusted for inflation
+- These well defined plans have one good virtue from the perspective of choice architecture. They are forgiving to even the most mindless of Humans. For social security checks, the only decision which needs to be made is when you are going to retire. The later you retire the bigger the checks. It might be a difficult decision but its just one decision
+- Same for private defined-benefit plans also have the same advantage, as long as the worker keeps working for the same employer and the employer stays in business. But this doesnt work for workers who keep changing jobs. Generally there is a minimum requirement of staying in the company for at least 5 years.
+- Enters defined-constribution plans, where employee and sometimes employer(they sometimes match the contributions upto some threshhold) put money regularly in a tax sheltered account. These contributions are tax deductible.The money in this account can be devided to savings and investements. The retirement savings then depend on how much was saved and investment returns. NPS, 401(k) etc.
+- These plans are portable and the worker switching jobs wont result in losing this account.
+- Although defined-contribution plans are flexible, they are not very forgiving from the choice architecture perspective. Employees have to:
+  - Enroll
+  - Decide how much to save and how much to invest
+  - Maintain the portfolio for several years
+  - Deciding what to do with the proceeds after retiring.
+- People find the whole process frightening and seem to be messing this up. Sometimes employer match the contributions and thus by not taking advantage of this people are just loosing free money.
+- And surverys show that people actually want to save more and save systematically. But the task is daunting.
+- Nudges can help in such situation.
+- Educating people on this topic is not proven to show significant improvements.
+- Savings should be automatic or the default choice. Or when joining an organization the employee must choose to save or not.
+- The saving rates should automatically increase as people get raises. This will solve for the frustration of the immediate reduction in the in-hand salary when you decide to save more. It will also make the increase in savings gradual. After the savings reach a certain threshhold percentage of salary(15% in USA) of the salary, then dont increase more.
+- The above-described plan is called **Save More Tomorrow**
+- This works because
+  - People want to save but dont follow through
+  - Self-control restrictions are eassier to adopt if they take place some time in the future
+  - Loss aversion. People hate to see their paychecks go down when they start saving.
+  - Money Illusion. People dont adjust for inflation when thinking about savings.
+  - Inertia plays a powerful role.
+- Government can offer incentives to employer to implement the Save More Tomorrow plan.
+- Has been successfully implemented in many placed in the US and have shown phenomenal results.
+- To decide how much you can save find a calculator which asks questions on your lifestyle, health, salary etc.
 
 
