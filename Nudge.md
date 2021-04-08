@@ -113,9 +113,9 @@
 
 ### Chapter 5: Choice Architecture
 
-- One factor to keep in mind when designing anything is that the signal the object gives should be consistent with the response. Ex. there should be no handles on the side of the door which is to be pushed. Handles should be there on the pull side. This is a failure of the architecture to accomodate basic principles of human psyhchology. **Design of Everyday things** by Don Norman is a good book on the subject. The example of the four burner stove is also mentioned. ![Burner](media/Four%20stove%20burner.jpg)
+- One factor to keep in mind when designing anything is that the signal the object gives should be consistent with the response. Ex. there should be no handles on the side of the door which is to be pushed. Handles should be there on the pull side. This is a failure of the architecture to accommodate the basic principles of human psychology. **Design of Everyday things** by Don Norman is a good book on the subject. The example of the four-burner stove is also mentioned. ![Burner](media/Four%20stove%20burner.jpg)
 
-- The goal of this chapter is to highlight the importance of such thinking in choice architects. In particular, we dont want the Automatic System to get confused.
+- The goal of this chapter is to highlight the importance of such thinking in choice architects. In particular, we don't want the Automatic System to get confused.
 - Following ideas can help. Mnemonic: Nudges
   - I**N**centive
   - **U**nderstand Mappings
@@ -127,42 +127,42 @@
 #### Defaults
 - For multiple reasons which need nudges default help a lot.
 - It is also important to note that all defaults are not selected to make the chooser's life easier/better. Ex. CCPA, magazine subscriptions
-- We can skip the default and make the choice required or mandatory but in that case their are two problems.
+- We can skip the default and make the choice required or mandatory but in that case, there are two problems.
   - Required choosing is only good for simple yes or no choices
   - The illusion of choice is another burden the brain must bear.
 
 #### Expect Error
-- The design should account for human error and shoud be forgiving.
-- The atm machines design should be such that users cant forget their cards.
+- The design should account for human error and should be forgiving.
+- The ATM design should be such that users cant forget their cards.
 - The petrol/diesel cap should be attached to the car.
-- The above mentioned errors are called postcompletion errors.
-- Gmail reminds us that we mentioned an attachment but did not actually attach it.
+- The above-mentioned errors are called post-completion errors.
+- Gmail reminds us that we mentioned an attachment but did not attach it.
 
 #### Give Feedback
 - Digital cameras provide a fake shutter click sound.
-- Warning systems. Like laptops give low battery warnings. But the number of warnings should not be too high or user will start ignoring the warnings.
+- Warning systems. Like laptops give low battery warnings. But the number of warnings should not be too high or the user will start ignoring the warnings.
 
 #### Understand Mappings
-- When people dont know what choice will translate to what mapping, people need a nudge.
-- Good choice architecture in such cases improves the ability of the chooser to map between choices and outcomes and hence helpd them make a better choice.
+- When people don't know what choice will translate to what mapping, people need a nudge.
+- Good choice architecture in such cases improves the ability of the chooser to map between choices and outcomes and hence helped them make a better choice.
 - If I am buying apple cider it helps to know that three apples will translate to one glass.
-- Patients should get similar mappings which choosing for treatment options for cancer. Surgery vs radio therapy mappings.
-- Instead of megapixels, cameras should tell you what is ths maximum size of a photo you can produce.
+- Patients should get similar mappings which choosing treatment options for cancer. Surgery vs radiotherapy mappings.
+- Instead of megapixels, cameras should tell you what is the maximum size of a photo you can produce.
 - One technique to help people make better choices in case of mortgages, auto insurance plans, cell phones plans, and other similar problems is called RECAP
 - **RECAP**: Record, Evaluate and Compare Alternative Prices.
-- For cell phone markets, RECAP will work by making it mandatory for providers to send a detailed yearly report on the breakup of every penny charged. Automated tools then can help consumers on how other providers would have charged for the same usage. Users can than decide to switch if possible.
+- For cell phone markets, RECAP will work by making it mandatory for providers to send a detailed yearly report on the breakup of every penny charged. Automated tools then, can help consumers on how other providers would have charged for the same usage. Users can then decide to switch if possible.
 
 #### Structure Complex Choices
-- When there are very less number of choices, brute forcr works for evaluation. For example selecting out of three work locations the employers is providing. Just go at all the three places and evaluate.
-- But if there are a lot of choices then you try to reduce them by filtering on the basis of criteria and then only evaluating the final one.
+- When there are fewer choices, brute force works for evaluation. For example, selecting out of three work locations an employer is providing. Just go to all three places and evaluate.
+- But if there are a lot of choices then you try to reduce them by filtering based on criteria and then only evaluating the final one.
 - In such cases, awesome alternatives run a risk of filtering out.
-- People need help in such cases. Which can be done by structuring the choices which make user decisions easier.
+- People need help in such cases. This can be done by structuring the choices which make user decisions easier.
 - Ex. Netflix recommendation systems.
-- The color choosing pallette in the drawing softwares. Instead of remembering the codes and trying them one by one user will be able to select easily.
+- The color choosing palette in the drawing software. Instead of remembering the codes and trying them one by one user will be able to select easily.
 
 #### Incentives
-- The relation between the choice and incentive should be made salient(more noticable).
-- Phone displaying cost of trunk calls as we are talking
+- The relation between the choice and incentive should be made salient(more noticeable).
+- Phone displaying the cost of trunk calls as we are talking
 - Calorie burning display while running.
 - Apps that can predict and remind how your face will look like after 5 years of smoking.
 
