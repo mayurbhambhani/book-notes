@@ -16,6 +16,7 @@
       - [Incentives](#incentives)
   - [Part 2: Money](#part-2-money)
     - [Chapter 6: Save More Tomorrow](#chapter-6-save-more-tomorrow)
+    - [Chapter 7: Naive Investing](#chapter-7-naive-investing)
 
 
 # Nudge
@@ -207,5 +208,36 @@
 - Government can offer incentives to the employer to implement the Save More Tomorrow plan.
 - Has been successfully implemented in many places in the US and has shown phenomenal results.
 - To decide how much you can save find a calculator which asks questions on your lifestyle, health, salary, etc.
+
+
+### Chapter 7: Naive Investing
+
+- **Asset Allocation Decision**: Choosing an appropriate mix of bonds and stocks.
+- Once you choose what percentage is going to go in stocks and what is going to a bank acount you need to choose what stocks to buy.
+- People dont generally pick stocks, they pick mutual funds which vary in terms oh how risky they are and how much they charge for their services.
+- There are also funds designed which combine stock and bonds.
+- Then you also have to decide how much should one invest in his/her employers' shares.
+- These are difficult choices. Choice architecture can help here.
+- On an average market(S&P Index fund) returns an interest of 10.4 %. The average market return in India for NSE is around 17%.
+- In economic jargons, stocks are referred to as equities.
+- Although the average rate of return is high, there have been years when the market plunges by 30%.
+- But if you are thinking long term, 20 years, then it should give 10%. Side Note: what happens the year you decide to retire, the stock market goes down. I guess you will have to wait for the market to catch up. Even if you dont, the savings should be decent enough.
+- But assuming the worst possible and assuming that the market is going to betray you, how can you decide?
+- This is how an Econ would make this decision. Whether the possibility of 25% richer is worth the risk of being 15% poorer.
+- Even if Humans think about the problem in the same way they wont be able to make the necessary calcuulations. Then the decisions they do make will suffer from the following flaws
+  - The decisions will be unduly(to an unwarranted degree) influenceed by recent market fluctuations.
+  - The decision will be likely based on rules of thumbs.
+- **Influence Of Recent market fluctuations:**
+  - Looking at the prices frequently: Over a 20 year period, stocks are almost certain to go up. In US there is no 20 year period where stocks have declined in real value or have been outperfromed by bonds. If the investors are shown the evidence on risks of stocks and bonds over a long period of time, such as 20 years, they choose to invest all their money in stocks. See Benartzi and Thaler (1999)
+  - Market TimingL People generally buy high and sell low.
+- **Rules Of Thumb:**
+  - 1/n heuristic: If presented with n options Humans will equally allocate 1/n resources on each of those options. Sometimes companies would offer plans to the employees where the choice is made easy by offering lifestyle funds(conservative, moderate, aggressive). Or they might offer plans on the basis of ages. But when much of these funds are offered people again use the 1/n rules. The fund itself does proper allocation and after choosing a particular fund the 1/n heuristic is not required. But people get confused.
+  - Company Stock: People tend to invest more in company stock out of loyalty and confidence(due to past performance). But as this is not at all diversified this is a bad strategy. If the company goes down, salary and investments both will suffer. More than 10% of retirement money should not be invested in the company you work for.
+- **Nudges requireds:**
+  - Default: Enrollment should be by default. And a default strategy should also be present. Participants will just have to choose between a aggressive, conservative or a moderate strategy. Another choice of default is choosing a fund which matures the year this participants is going to retire.
+  - Strcuturing Complex Choices: Lifestyle portfolios(conservative, moderate, aggressive), target maturity funds are good choices.
+  - Expect Error: For people who dont join, automatic enrollment clubbed with Save More Tomorrow. The ratio between bonds and stocks by default would be adjusted over time in the automtically selected asset allocation.
+  - Mappings and Feedback: People should be shown the houses that they can buy on retiring on the basis of their current allocation. Then can then change if the house they see and the house they would want is not the same.
+  
 
 
