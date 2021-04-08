@@ -3,10 +3,17 @@
   - [Part 1: Humans And Econs](#part-1-humans-and-econs)
     - [Chapter 1: Blunder And Biases](#chapter-1-blunder-and-biases)
     - [Chapter 2: Resisting Temptation](#chapter-2-resisting-temptation)
-    - [Chapter 3: Following the herd.](#chapter-3-following-the-herd)
+    - [Chapter 3: Following The Herd](#chapter-3-following-the-herd)
     - [Chapter 4: When Do We Need A Nudge](#chapter-4-when-do-we-need-a-nudge)
       - [Situations that need a nudge](#situations-that-need-a-nudge)
       - [Markets](#markets)
+    - [Chapter 5: Choice Architecture](#chapter-5-choice-architecture)
+      - [Defaults](#defaults)
+      - [Expect Error](#expect-error)
+      - [Give Feedback](#give-feedback)
+      - [Understand Mappings](#understand-mappings)
+      - [Structure Complex Choices](#structure-complex-choices)
+      - [Incentives](#incentives)
 
 
 # Nudge
@@ -64,7 +71,7 @@
   - Mental accounting: Having different accounts for savings and spending helps.
 
 
-### Chapter 3: Following the herd.
+### Chapter 3: Following The Herd
 
 - Why social influence or social poof mentioned in [Influence](Influence-%20The%20Psychology%20of%20persuasion.md) works and how can it be used to nudge people in the right direction.
 - Like described in the [Influence](Influence-%20The%20Psychology%20of%20persuasion.md) book. The tendency to follow others increases when we are unsure.
@@ -102,5 +109,61 @@
 
 - General assumption is the fair forces of the competition in the market will always make sure that consumers will get quality goods at competitive prices. But there are some cases where this logic doesn't apply. Take the example of a second-year warranty on a cell phone which costs 20% of the phone cost which let us say is $200. If the probability of the phone needing repair is 1% in the second year then by not taking the extended warranty the risk we are taking is just $2. But we are been asked to pay 20$ which is outrageous. And people buy these guarantees just because they don't want to feel sorry later. Market forces cant help in such cases, because it is not easy for a 3rd party to get into this agreement. Consumers then will need a nudge in the right direction.
 
+
+
+### Chapter 5: Choice Architecture
+
+- One factor to keep in mind when designing anything is that the signal the object gives should be consistent with the response. Ex. there should be no handles on the side of the door which is to be pushed. Handles should be there on the pull side. This is a failure of the architecture to accomodate basic principles of human psyhchology. **Design of Everyday things** by Don Norman is a good book on the subject. The example of the four burner stove is also mentioned. ![Burner](media/Four%20stove%20burner.jpg)
+
+- The goal of this chapter is to highlight the importance of such thinking in choice architects. In particular, we dont want the Automatic System to get confused.
+- Following ideas can help. Mnemonic: Nudges
+  - I**N**centive
+  - **U**nderstand Mappings
+  - **D**faults
+  - **G**ive Feedback
+  - **E**xpect Error
+  - **S**tructure complex choices
+
+#### Defaults
+- For multiple reasons which need nudges default help a lot.
+- It is also important to note that all defaults are not selected to make the chooser's life easier/better. Ex. CCPA, magazine subscriptions
+- We can skip the default and make the choice required or mandatory but in that case their are two problems.
+  - Required choosing is only good for simple yes or no choices
+  - The illusion of choice is another burden the brain must bear.
+
+#### Expect Error
+- The design should account for human error and shoud be forgiving.
+- The atm machines design should be such that users cant forget their cards.
+- The petrol/diesel cap should be attached to the car.
+- The above mentioned errors are called postcompletion errors.
+- Gmail reminds us that we mentioned an attachment but did not actually attach it.
+
+#### Give Feedback
+- Digital cameras provide a fake shutter click sound.
+- Warning systems. Like laptops give low battery warnings. But the number of warnings should not be too high or user will start ignoring the warnings.
+
+#### Understand Mappings
+- When people dont know what choice will translate to what mapping, people need a nudge.
+- Good choice architecture in such cases improves the ability of the chooser to map between choices and outcomes and hence helpd them make a better choice.
+- If I am buying apple cider it helps to know that three apples will translate to one glass.
+- Patients should get similar mappings which choosing for treatment options for cancer. Surgery vs radio therapy mappings.
+- Instead of megapixels, cameras should tell you what is ths maximum size of a photo you can produce.
+- One technique to help people make better choices in case of mortgages, auto insurance plans, cell phones plans, and other similar problems is called RECAP
+- **RECAP**: Record, Evaluate and Compare Alternative Prices.
+- For cell phone markets, RECAP will work by making it mandatory for providers to send a detailed yearly report on the breakup of every penny charged. Automated tools then can help consumers on how other providers would have charged for the same usage. Users can than decide to switch if possible.
+
+#### Structure Complex Choices
+- When there are very less number of choices, brute forcr works for evaluation. For example selecting out of three work locations the employers is providing. Just go at all the three places and evaluate.
+- But if there are a lot of choices then you try to reduce them by filtering on the basis of criteria and then only evaluating the final one.
+- In such cases, awesome alternatives run a risk of filtering out.
+- People need help in such cases. Which can be done by structuring the choices which make user decisions easier.
+- Ex. Netflix recommendation systems.
+- The color choosing pallette in the drawing softwares. Instead of remembering the codes and trying them one by one user will be able to select easily.
+
+#### Incentives
+- The relation between the choice and incentive should be made salient(more noticable).
+- Phone displaying cost of trunk calls as we are talking
+- Calorie burning display while running.
+- Apps that can predict and remind how your face will look like after 5 years of smoking.
 
 
