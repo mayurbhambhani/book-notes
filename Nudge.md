@@ -17,6 +17,10 @@
   - [Part 2: Money](#part-2-money)
     - [Chapter 6: Save More Tomorrow](#chapter-6-save-more-tomorrow)
     - [Chapter 7: Naive Investing](#chapter-7-naive-investing)
+    - [Chapter 8: Credit Markets.](#chapter-8-credit-markets)
+      - [Mortgage](#mortgage)
+      - [Student Loans](#student-loans)
+      - [Credit Cards](#credit-cards)
 
 
 # Nudge
@@ -238,6 +242,61 @@
   - Structuring Complex Choices: Lifestyle portfolios(conservative, moderate, aggressive), target maturity funds are good choices.
   - Expect Error: For people who don't join, automatic enrollment clubbed with Save More Tomorrow. The ratio between bonds and stocks by default would be adjusted over time in the automatically selected asset allocation.
   - Mappings and Feedback: People should be shown the houses that they can buy on retiring based on their current allocation. Then can then change if the house they see and the house they would want is not the same.
-  
+
+### Chapter 8: Credit Markets.
+
+- The three common ways people borrow in the modern world 
+  - mortgages
+  - credit cards
+  - student-loans
+
+#### Mortgage
+- Shopping for a mortgage used to be easy. There were only fixed-rate mortgages. Comparing them was easy. Just choose the one with the lowest interest rate.
+- Now there are options to choose from various fixed-rate and variable-rate. Where the rate varies according to the movements in the market. Some loans are interest-only which means that the borrower makes no payment towards the principal and hence the loan is never paid off until the house is sold, or the loan is [refinanced](https://economictimes.indiatimes.com/tdmc/your-money/5-reasons-to-go-for-home-loan-refinance/articleshow/52293509.cms). Many variable-rate mortgages are further complicated by teaser rates this means that initially, the rates would be less but after one or two years the higher rates would kick in.
+- Then there is the matter of fees. Which can vary greatly. Sometimes there is some payment which the borrower needs to pay to receive the lower interest rates. And there are pre-payment penalties that need to be paid when the loan is repaid early.
+- Research shows that when the market gets more complicated, the unsophisticated and uneducated will be especially disadvantaged by the complexity
+  - African-Americans and Latinos generally pay higher for loans.
+  - People living in the uneducated neighborhood pay higher for loans.
+  - Women pay more.
+- Mortgage brokers who tend to rich clients have more incentive to establish fair dealings, mortgage brokers who deal with the poor are often looking for a quick buck.
+- These factors are further exacerbated in subprime loans.
+- ***Subprime Loans***:
+  - Lent to people who are not eligible for conventional loans due to their low credit scores.
+  - As lending to people with low credit scores is risky, these loans typically have high-interest rates to compensate for the risk.
+  - These are mostly ARM(Adjustable Rate Mortgages), which means that the interest will increase at specified points in times.
+  - 2008 financial crisis in the US was blamed on the subprime mortgages because in the years preceding the meltdown, a lot of subprime loans were offered to unqualified buyers.
+- Subprime loans are both, good and bad.
+- Good,  because we can't say subprime mortgages are bad because it helps poor to be homeowners.
+- Bad, because subprime borrowers are often unsophisticated and they are sometimes exploited by the brokers.
+- The truth or real assessment of these loans are buried in a mountain of fine print which subprime borrowers can not make sense of and hence they end up with loans that are less beneficial for them but more beneficial for the broker.
+- This is called predatory lending.
+- There can be paternalistic approaches to solve these problems.
+  - The loan estimate presented by the broker must be valid for 30 days and the borrower must wait before purchasing
+  - Limit the set of permissible mortgages and ban certain kind of mortgages like mortgages with negative amortization or balloon payments( in such mortgages large payments are due at the end because mortgage and interest haven't been fully paid over the term)
+- Libertarian Paternalistic approaches offering a nudge can be the following two versions of the RECAP plan
+  - The mortgage lenders would be required to report the lending costs in two components, fees and interest. The fee might have different components, which also should be reported, but all of it has to be added to one salient number. Now as the costs are separated, it is simpler for the borrowers to compare different loans as the interest rate is the only thing they have to look at. The interest rate disclosure should have a schedule of payments, so the borrowers know how much is due when. For market-dependent loans, the worst-case scenarios should also be added.
+  - The mortgage lenders should also provide a machine-readable report for this. Hence various third parties(which can be easily regulated), can help people compare between different loans.
+
+#### Student Loans
+
+- In the US, there are two kinds of loans in the marketplace, federal and private.
+- On both kinds of loans, the government pays the interest while the student is in college, acts as the guarantor if the student defaults, and subsidizes the loans. Lenders find making these loans highly profitable.
+- Students typically try for a federal loan first as it's cheaper. Then they look at the private loans if necessary.
+- The forms for federal loans are infamous for the overwhelming number of questions and their complexity. Students have to give their parents financial information, College Board financial aid profile( for private colleges).
+- After the student submits the form the department of education decides how much the student's family can pay for the college(called the expected family contribution) and then the college decides the size of the loan.
+- Alternatively, the student can go to private loans, by showing college enrollment proof. Unlike federal loans, the money can be used for anything and hence the loan lender or broker can encourage the borrower to borrow more and overspend.
+- It is naive to ask your mortgage broker for advice. Similarly, it is naive to ask the college's advice on where to borrow. Because sometimes the college department in charge of this has colluded with the private loan lenders.
+- Nudges that can help
+  - Simplify the forms, don't ask for parents' financial info, get this info from the IT returns filed by the family. And make the forms similar for private and govt loans. So at least people don't go to private just to avoid complexity.
+  - Machine-readable RECAP.
+  - Encourage families to eliminate the need for loans together by helping them start college saving accounts. Provide an incentive in the form of seed money in that account.
+
+#### Credit Cards
+
+- The problem with a credit card that it is the opposite version of Save More Tomorrow. It is Spend today, Pay tomorrow. As the problem of paying is transferred to the future self, the current self loses self-control and ends up spending beyond his means and incurs debt.
+- Credit card companies deliberately make it hard for people to set up automatic payments.
+- Always pay the full amount. Never pay just the minimum. The rates are crazy, the fines are crazy, and even as a penalty, you might have to pay interest on the next month's purchases as well, from the date of purchase to the scheduled payment date.
+- Libertarian Paternalistic solution. RECAP, usage report which leaves not even a single penny hidden.
+   
 
 
