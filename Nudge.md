@@ -22,8 +22,8 @@
       - [Student Loans](#student-loans)
       - [Credit Cards](#credit-cards)
     - [Chapter 9: Privatizing social security](#chapter-9-privatizing-social-security)
-  - [Part 3 : Health](#part-3--health)
-    - [Chapter 10: Prescription Drugs: Part D for daunting.](#chapter-10-prescription-drugs-part-d-for-daunting)
+  - [Part 3: Health](#part-3-health)
+    - [Chapter 10: Prescription Drugs: Part D for daunting](#chapter-10-prescription-drugs-part-d-for-daunting)
 
 
 # Nudge
@@ -320,9 +320,21 @@
 - The Swedish government should have said, you can choose your funds after expert advice, if you don't we have a very good expert-designed default fund for people just like you.
 
 
-## Part 3 : Health
+## Part 3: Health
 
-### Chapter 10: Prescription Drugs: Part D for daunting.
+### Chapter 10: Prescription Drugs: Part D for daunting
+
+- This chapter describes what happened when the US decided to give prescription drugs coverage to its senior citizens
+- Similar to the theme in the book It describes that to maximize choice the whole matter became very complicated and it was very difficult for seniors to choose a plan for themselves. There were a lot of private choices and no proper aid was provided.
+- The enrollment was not automatic for people who currently were not associated with any other plan.
+- For those who were able to automatically enroll, their default plan was chosen at random. Which is problematic on following accounts
+  - Patient history was not taken into account. 
+  - Seniors who got enrolled in medical plans which are expensive to them might stop taking the drug which will increase the cost to the government if their conditions worsen.
+  - Seniors who don't need plans which are costing a little too much to the government will not change it due to inertia and status quo bias and hence govt again is unnecessarily paying extra costs.
+  - The costs were medicines were always changing. Hence if someone, somehow, was able to make the right choice, it is not guaranteed that the choice will remain the right choice.
+- Possible solutions to avoid these issues is better choice architecture.
+- According to patient history, a plan should be recommended. In case the senior is already using a plan which is not as suitable as the default, they should be informed via mailers that better options exist.
+- RECAP: Every year when the date to change plans approaches, the seniors should get a RECAP report which should also be machine-readable. They can then compare and choose.
 
    
 
