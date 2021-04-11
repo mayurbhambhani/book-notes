@@ -21,6 +21,9 @@
       - [Mortgage](#mortgage)
       - [Student Loans](#student-loans)
       - [Credit Cards](#credit-cards)
+    - [Chapter 9: Privatizing social security](#chapter-9-privatizing-social-security)
+  - [Part 3 : Health](#part-3--health)
+    - [Chapter 10: Prescription Drugs: Part D for daunting.](#chapter-10-prescription-drugs-part-d-for-daunting)
 
 
 # Nudge
@@ -297,6 +300,30 @@
 - Credit card companies deliberately make it hard for people to set up automatic payments.
 - Always pay the full amount. Never pay just the minimum. The rates are crazy, the fines are crazy, and even as a penalty, you might have to pay interest on the next month's purchases as well, from the date of purchase to the scheduled payment date.
 - Libertarian Paternalistic solution. RECAP, usage report which leaves not even a single penny hidden.
+
+### Chapter 9: Privatizing social security
+
+- Bush proposed a plan in 2000 to privatize social security. Some part of the payroll income tax contribution of an individual can go to a savings account. From there, it could be invested in a fund. 
+- Sweden implemented the plan. They gave a default fund. People could change. Any fund can enter the market if it fulfills certain fiduciary criteria. Citizens could select up to five funds.
+- Funds were permitted to advertise.
+- Government chose one fund as default, which was very well designed. It was diversified across, foreign stock, Sweden stocks, private equity, hedge fund, bonds. And 60% allocation from all assets classes was given to index funds. Which meant that less fund management cost and thus less fee.
+- 1/3 of the people did not choose and thus stayed with the default one.
+- The others who did choose, did not choose very well. Popular choices were those funds that performed very well in the recent past. But that doesn't give any forecasting ability on how the fund is going to perform in the future. As all this happened just before the dot com crash, at that time it seemed like a good idea to invest in tech. And that's how most people chose their funds.
+- In summary, those who chose for themselves
+  - Selected a higher equity exposure(96.8%)
+  - More active management(very less in index funds)
+  - Higher fee(because of active management)
+  - Local concentration(half of the equity exposure was in the Sweden market). No foreign stocks. Not advisable as Sweden contributes only 1% to the world economy
+- The default fund performed much better.
+- The choice architects should have encouraged the people to stay with the default rather than taking a neutral stand.
+- Advertizing was also not the proper way to inform people, because the firms will not nudge the people in the right direction but will just try to reel in customers. 
+- The Swedish government should have said, you can choose your funds after expert advice, if you don't we have a very good expert-designed default fund for people just like you.
+
+
+## Part 3 : Health
+
+### Chapter 10: Prescription Drugs: Part D for daunting.
+
    
 
 
