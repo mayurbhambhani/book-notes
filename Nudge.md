@@ -24,6 +24,7 @@
     - [Chapter 9: Privatizing social security](#chapter-9-privatizing-social-security)
   - [Part 3: Health](#part-3-health)
     - [Chapter 10: Prescription Drugs: Part D for daunting](#chapter-10-prescription-drugs-part-d-for-daunting)
+    - [Chapter 11: How to increase organ donations](#chapter-11-how-to-increase-organ-donations)
 
 
 # Nudge
@@ -335,6 +336,20 @@
 - Possible solutions to avoid these issues is better choice architecture.
 - According to patient history, a plan should be recommended. In case the senior is already using a plan which is not as suitable as the default, they should be informed via mailers that better options exist.
 - RECAP: Every year when the date to change plans approaches, the seniors should get a RECAP report which should also be machine-readable. They can then compare and choose.
+
+
+### Chapter 11: How to increase organ donations
+
+- With useful nudges, we can increase the number of organs available for patients in need.
+- Explicit Consent: People don't register because of inertia and status quo bias
+- Routine Removal: State can remove organs after death without need consent. This happens nowhere. In some states in the US though, practitioners are allowed to remove corneas without permission. That is the extent of it and that should be.
+- Presumed Consent: By default, everyone is an organ donor. People can choose not to be. If the process to opt-out is minimal effort and very low cost then this comes under Libertarian Paternalism. Many countries in Europe have adopted this. In Austria, 99% of the people are organ donors. In Germany only 12. Presumed Consent is implemented in Austria and Explicit content in Germany
+- Research shows that switching from explicit to presumed consent increases the donation rate in a country by 16%.
+- Although the family can object after the donor is dead. And some countries like France give a lot of importance to it. But a system of presumed consent at least allows the hospitals to approach families as a family of a donor.
+- Mandated Choice: Force people to choose when they apply for a new license. This also works better than explicit consent. And also the donor family has a high chance of readily complying because they should respect a decision that was explicitly selected.
+- Although presumed consent and mandated choice is supposed to give better results, explicit consent if choice architected properly can be used to get good numbers. For example, Illinois implemented First Person Consent registry for organ donation. Family consent at the time of harvesting is not required if somebody registers.
+- Online registration. The website describes how many people die yearly because organs are not available, then it describes how many people die in Illinois every year. Then it influences people by mentioning how many people have already signed up for this to use social proof. And then the website makes it easier for you to share your donation decision on social media websites.
+
 
    
 
