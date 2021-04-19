@@ -1,8 +1,11 @@
-
 - [Managing Humans](#managing-humans)
   - [Part 1: The Management Quiver](#part-1-the-management-quiver)
     - [Chapter 1: Don't Be A Prick](#chapter-1-dont-be-a-prick)
     - [Chapter 2: Managers Are Not Evil](#chapter-2-managers-are-not-evil)
+    - [Chapter 3 - Rands Test](#chapter-3---rands-test)
+      - [Do you have a 1:1?(+1)](#do-you-have-a-111)
+    - [Chapter 4: How To Run A Meeting](#chapter-4-how-to-run-a-meeting)
+
 # Managing Humans
 
 ## Part 1: The Management Quiver
@@ -28,3 +31,48 @@
 - Where does he belong in the food chain. How people talk to him during the cross-functional meetings. Do they know him, is his opinion respected? If it is his meeting does he drive it? Is he well informed? Only then he will be able to draft out a strategy to best represent his team when changes are about to happen.
 - How does he react during tough situations. This will tell you if he is an asshole and when you should be concerned about yourself.
 - Does he know where he is going. Is he ambitious?
+
+### Chapter 3 - Rands Test
+
+- Just like the [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) to rate the quality of a software team, Rands Test is supposed to help us to rate the communication health of the org.
+- Less than 8 on this test is a problem.
+
+#### Do you have a 1:1?(+1)
+- It should be regular.
+- It should be strategic.
+- If you are not taking it seriously then you are just enforcing the myth that managers are out of touch.
+
+Do you have a team meeting? (+1)
+- Kill lies
+- Measure tangible progress.
+- Fix broken things
+
+Are handwritten status reports delivered weekly via emails(-1)
+- The culture should be to use the collaboration tools like Jira, to understand the status.
+- Writing email statuses or confluence docs or excels is just a lack of imagination and a lack of trust.
+
+Are you comfortable saying no to your boss? (+1)
+- If people above you are open to feedback and suggestions it is a good sign.
+
+
+Can you explain the strategy of the company to a stranger(+1)
+- Information is key. Don't be out of touch. 
+
+Can you explain the current state of the business? (+1)
+- If you gave a point to yourself in the last question you just need to make sure that the steps the org is taking are in the right direction.
+  
+Does the guy/girl in charge regularly stands up in front of the group and tell you what he/she is thinking? (+1) Are you buying it? (+1)
+- Is there an all-hands, do you agree with the views expressed? What does that say about the state of business
+
+Do you know what you want to do next? (+1) Does your boss? (+1)
+- You will be able to sort useful info from garbage if you have clarity. If your boss understands the trajectory he will also be able to use the info to help you.
+
+Do you have time to be strategic(+1?
+- You know your next move. Are you thinking strategy to get there? Can you point towards your calendar and show when are you being strategic?
+
+Are you actively killing the grapevine(+1)
+- Lack of information forces people to make up shit.
+- Diffuse it, call it nonsense if it sounds like it. 
+
+
+### Chapter 4: How To Run A Meeting
