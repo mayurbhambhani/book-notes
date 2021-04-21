@@ -76,3 +76,16 @@ Are you actively killing the grapevine(+1)
 
 
 ### Chapter 4: How To Run A Meeting
+
+- Two types of meetings
+  - Alignment Meetings
+    - Information exchange
+    - Tactical
+    - Regular cadence
+  - Creation meetings
+    - Solve a problem.
+- There are two important components every meeting should have
+  - An agenda- Share in an email before the meeting or start the meeting with it.
+  - A referee- Ensures the progress is being made and the meeting is on the agenda. Also makes sure that people are not checked out. If they are, pulls them back in by directing a question to them or resetting the meeting by silence or drawing attention somehow. This person also strikes a balance between shutting down the rambling and recognize productive ramblings. This guy also needs to capture action items and recap the meeting in the follow-up. A successful meeting never occurs again.
+- Meeting management like people management is an art of managing a moment. The action depends on the context.
+  
