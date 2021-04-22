@@ -5,6 +5,8 @@
     - [Chapter 3 - Rands Test](#chapter-3---rands-test)
       - [Do you have a 1:1?(+1)](#do-you-have-a-111)
     - [Chapter 4: How To Run A Meeting](#chapter-4-how-to-run-a-meeting)
+  - [Part 3: Versions Of You](#part-3-versions-of-you)
+    - [Chapter 28: Bored People Quit](#chapter-28-bored-people-quit)
 
 # Managing Humans
 
@@ -88,4 +90,24 @@ Are you actively killing the grapevine(+1)
   - An agenda- Share in an email before the meeting or start the meeting with it.
   - A referee- Ensures the progress is being made and the meeting is on the agenda. Also makes sure that people are not checked out. If they are, pulls them back in by directing a question to them or resetting the meeting by silence or drawing attention somehow. This person also strikes a balance between shutting down the rambling and recognize productive ramblings. This guy also needs to capture action items and recap the meeting in the follow-up. A successful meeting never occurs again.
 - Meeting management like people management is an art of managing a moment. The action depends on the context.
+
+## Part 3: Versions Of You
+
+### Chapter 28: Bored People Quit
+
+- People want to quit because they are bored. You can make them stay but the battle is already lost.
+- Boredom should be detected and fixed asap.
+- Techniques for detecting boredom
+  - Changes in routine: coming late, going early
+  - Productivity decrease
+  - Ask them. Go beyond what they are saying. They might not realize it yet that they are bored. Better to find out before they do.
+  - They might not exactly tell you that they are bored. But they might say, that they don't know what next.
+- Fixing boredom
+  - Boredom or not, a manager should know where their employees want to reach.
+  - They should also know what are they doing to get them there.
+  - Figure out what technical aspect or what part of the technical problem the team is solving they like
+  - Give them time to work on it and reduce interruptions
+  - If anyone asks for a justification of the bandwidth loss, inform them that product building is not your only responsibility. You also build people.
+  - Regularly tell them that you know where they want to reach and you are thinking about how to take them there.
+  
   
