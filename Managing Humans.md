@@ -110,4 +110,14 @@ Are you actively killing the grapevine(+1)
   - If anyone asks for a justification of the bandwidth loss, inform them that product building is not your only responsibility. You also build people.
   - Regularly tell them that you know where they want to reach and you are thinking about how to take them there.
   
+  ### Chapter 29: Bellwethers
+
+  - This chapter talks about hiring.
+  - Hiring anyone is a risk. Its important that a wildly different set of people interview the candidate to get a lot of perspectives. This goes back to the basic assumption of author that a decision always becomes better if multiple people are examining it.
+  - According to author everyone on the team should interview the candidate.
+  - There should be go to set of interviewers for judging different aspects of the candidates. We need bellwethers for technical skills, cultural fit(team and company) and vision(strategic and tactical).
+  - Technical: Find a technical bully
+  - Vision: Do we want someone to push an agenda or work in silence. And how is the candidate matching our requirements.
+  - Always listen to the teams feedback. Always conduct a debrief and let the group reach consensus.
+  
   
