@@ -25,6 +25,10 @@
   - [Part 3: Health](#part-3-health)
     - [Chapter 10: Prescription Drugs: Part D for daunting](#chapter-10-prescription-drugs-part-d-for-daunting)
     - [Chapter 11: How to increase organ donations](#chapter-11-how-to-increase-organ-donations)
+    - [Chapter 12: Saving the Planet](#chapter-12-saving-the-planet)
+      - [Better Incentives](#better-incentives)
+      - [Feedback and Information](#feedback-and-information)
+      - [Ambitious Environmental Nudges](#ambitious-environmental-nudges)
 
 
 # Nudge
@@ -349,6 +353,40 @@
 - Mandated Choice: Force people to choose when they apply for a new license. This also works better than explicit consent. And also the donor family has a high chance of readily complying because they should respect a decision that was explicitly selected.
 - Although presumed consent and mandated choice is supposed to give better results, explicit consent if choice architected properly can be used to get good numbers. For example, Illinois implemented First Person Consent registry for organ donation. Family consent at the time of harvesting is not required if somebody registers.
 - Online registration. The website describes how many people die yearly because organs are not available, then it describes how many people die in Illinois every year. Then it influences people by mentioning how many people have already signed up for this to use social proof. And then the website makes it easier for you to share your donation decision on social media websites.
+
+### Chapter 12: Saving the Planet
+
+- Government restrictions are one way to restrict pollution. Command and control reject free choices and markets entirely and allow people little flexibility in promoting environmental goals.
+- Aggressive controls of new sources of air pollution can extend the life of old dirty sources and thus increase air pollution, at least in the short run.
+- More often government don't specify the ways to reduce emission. They just require across-the-board reductions.
+- Sometimes people do change, but sometimes they don't, or the cost of the change turns out to be very high and then the bureaucrats have to go back to work.
+- The use of choice architecture might sound like a very mild measure against the consequences we are facing.
+- But the problem with the environment can itself be thought of as something where global choice architecture, among other things, played a role.
+- Incentives are not properly aligned. If you engage in environmentally costly behavior next year, through your consumption choices, you will probably pay nothing for the environmental harms you inflict.
+- People do not get fast feedback on their environmental choices.
+- By tuning these two aspects of choice architecture(incentive and feedback) we can nudge.
+
+#### Better Incentives
+
+- Two ways
+- Impose tax and penalties on those who pollute.
+- Cap-and-trade system. The government decides on how much pollution is tolerable. Which creates a region cap. Then based on this number people who pollute are given or sold rights to pollute in certain amounts. If they reduce their pollution or stop pollution, these people then can sell these rights in a market. Now they have a reason to reduce pollution.
+
+#### Feedback and Information
+
+- Informing people about the pollution hazards by warnings.
+- Force industries to disclose their emissions accurately on a public website before going ahead with the project. This helps reduction because no one wants to be the worst one on the public platform. As social activists and news channels will arrange for bad pr.
+- Fuel economy stickers, which tell people how much will they save in 5 years if they choose any car,
+
+
+#### Ambitious Environmental Nudges
+
+- An ambient little orb that glows red when a customer is using a lot of electricity
+- People sharing their energy consumption on Facebook or other public platforms.
+- Voluntary participation programs are designed to assist companies who want to preserve the environment.
+- Sometimes there are no extra costs and a little extra benefit to go green but executives don't get to it because they are busy. The voluntary participation programs can help. Example Energy star.
+ 
+
 
 
    
