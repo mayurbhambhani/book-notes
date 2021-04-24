@@ -29,6 +29,9 @@
       - [Better Incentives](#better-incentives)
       - [Feedback and Information](#feedback-and-information)
       - [Ambitious Environmental Nudges](#ambitious-environmental-nudges)
+    - [Chapter 13: Improving School Choices](#chapter-13-improving-school-choices)
+    - [Chapter 14- Should Patients be forced to buy lottery tickets](#chapter-14--should-patients-be-forced-to-buy-lottery-tickets)
+    - [Chapter 15: Privatizing Marriage](#chapter-15-privatizing-marriage)
 
 
 # Nudge
@@ -389,6 +392,44 @@
 
 
 
-   
+### Chapter 13: Improving School Choices
+
+- Children have the right to a good education
+- If schools compete, kids win.
+- One way used in the US to provide a better choice to parents is a voucher. A voucher is a financial help which government proves the parents for a private school. Essentially government will give some money to the parents assuming anyways that money would have been spent on the kid if he was in the public school/
+- Critics of vouchers argue that
+  - This money would be taken from public school funding. Hence the school would lose both, students and money.
+  - These vouchers will be used by the rich to subsidize their kid's education.
+- How the school competes is not made clear in the chapter.
+- But they talk about setting some standard performance metrics for each school and then allowing the parents to switch if the publically available performance data is not great.
+- The problem with this is a very less number of parents take the option of switching schools.
+- And those who try to do are politely discouraged by the authorities.
+- To encourage people to switch RECAP can be used with the information of school's performance scores.
+- Students can also be nudged to go to college by mandating that to pass school they have to fill an application and necessary help to fill it should be provided.
+
+### Chapter 14- Should Patients be forced to buy lottery tickets
+
+- In the US, health care is very expensive
+- One reason it is expensive because in a sense the cost includes the patient's right to sue.
+- The proposal of the chapter is that instead of forcing people to buy the right to sue. It should be made optional. This moving from non-libertarian paternalism to libertarian paternalism.
+- Studies have also shown that people who get negligent treatment don't generally sue and people who sue and win did not get negligent treatment
+- To make it easier for people to choose between buying medical treatment with and without the right to sue we can rely on employers as insurance is generally bought through employers.
+- Also we can break down malpractice insurance further into negligent treatment and intentionally harmful treatment.
+- Right to sue is anyways not helping because the patient does not even know how much they should receive for the injury caused.
+- Hence a libertarian paternalistic approach can bring down costs and help doctors and patients.
+
+### Chapter 15: Privatizing Marriage
+
+- Official marriage is currently a license from the state which covers two parts. The official approval or recognition of individuals' commitment towards each other and the other are material benefits, like tax benefits, transfer of assets on spouse's death, etc.
+- Such a system pisses at least one side. Either the religious institutions who don't want to support same-sex marriage or the homosexual couples who want to get married.
+- To solve this, marriage can be broken into two parts. The part concerned with the law can be called a civil union which would be a well-defined contract with all the material and legal benefits and with all the checks and balances in place.
+- The marriage part which concerns approval can be delegated to marriage granting organizations. It is up to the organization to support the kind of marriage and couples can choose the organization suitable for their needs.
+- This way both parties get what they want and no one is offended.
+- Hence marriage will become a strictly private matter performed by religious or other private organizations.
+- None of the laws would depend on a couple's status to being married. They would just be based on whether or not there is a civil union between two individuals
+- This also is desirable because state control of marriage is outdated. It was required before to make sure it is not easy to leave your spouse. But nowadays it has become easy.
+- Also the status of single or married does not even represent all the flexible options people want to realize in a relationship
+- With good defaults in place in the civil union which clearly describes what happens in case of death and separation and also favors the vulnerable party we can create a system that offends nobody includes different relationships in the society.
+
 
 
