@@ -32,6 +32,8 @@
     - [Chapter 13: Improving School Choices](#chapter-13-improving-school-choices)
     - [Chapter 14- Should Patients be forced to buy lottery tickets](#chapter-14--should-patients-be-forced-to-buy-lottery-tickets)
     - [Chapter 15: Privatizing Marriage](#chapter-15-privatizing-marriage)
+  - [Part 3: Extensions And Objections](#part-3-extensions-and-objections)
+    - [Chapter 15: A Dozen Nudges](#chapter-15-a-dozen-nudges)
 
 
 # Nudge
@@ -431,5 +433,20 @@
 - Also the status of single or married does not even represent all the flexible options people want to realize in a relationship
 - With good defaults in place in the civil union which clearly describes what happens in case of death and separation and also favors the vulnerable party we can create a system that offends nobody includes different relationships in the society.
 
+## Part 3: Extensions And Objections
 
+### Chapter 15: A Dozen Nudges
 
+1. **Give More Tomorrow**: Just like Save more Tomorrow but for charity
+2. **The Charity Debit Card And Tax Deductions**: A debit card only used to give for charity. And only charities would accept that. At the end of the year, the bank would generate a statement that can be used as a deductible in tax filing.
+3. **Automatic Tax Return**: For people who don't have any income the returns would already be filled out. Just verify, sign and send. To compel people to check there can be a prize of 100% if there is a mistake.
+4. **Stickk.com**: To make sure personal goals are achieved. Financial and Non-Financial agreements. In financial, give the money on the website and specify how would it be verified that the goal is achieved. If the goal is achieved money is returned else it's given to charity. For non-financial commitments, your friends will get to make fun of you if you fail on social media. If you succeed they will share your achievements
+5. **Quit Smoking Without A Patch**: A bank account where you deposit money whenever you generally smoke a cigarette. After six months a urine test is taken. If the person fails to take the test, the money goes to charity
+6. **Motorcycle Helmets**: People are allowed to not wear helmets if they apply for a special license. The license requires to take an advanced riding course focussed on safety and also asks for health insurance documents as proof.
+7. **Gambling Self-bans**: Gamblers can request the state to put them on the non-gambling list. Once there they should not be allowed in Casinos
+8. **Destiny Health Plan**: You get points for verifiable healthy choices and the premium is reduced.
+9. **Dollar a Day**: Pay teenage girls a dollar for every day they are not pregnant. Might sound trivial but it works.
+10. **Filters For Air Conditioners**: Changing filters on time is not obvious. AC breaks down and people have to pay the bills.
+11. **No bite nail-polish or Disulfiram**: The first one is obvious, the second one can be used by people wanting to quit drinking. They can take Disulfiram and then consuming alcohol will make them feel nauseous.
+12. **The Civility Check**: Angry, abusive mail would be detected on clicking send and will advise you to send it 24 hrs later. 
+    
