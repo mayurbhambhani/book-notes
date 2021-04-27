@@ -33,7 +33,9 @@
     - [Chapter 14- Should Patients be forced to buy lottery tickets](#chapter-14--should-patients-be-forced-to-buy-lottery-tickets)
     - [Chapter 15: Privatizing Marriage](#chapter-15-privatizing-marriage)
   - [Part 3: Extensions And Objections](#part-3-extensions-and-objections)
-    - [Chapter 15: A Dozen Nudges](#chapter-15-a-dozen-nudges)
+    - [Chapter 16: A Dozen Nudges](#chapter-16-a-dozen-nudges)
+    - [Chapter 17: Objections](#chapter-17-objections)
+    - [Chapter 18: The Real Third Way](#chapter-18-the-real-third-way)
 
 
 # Nudge
@@ -435,7 +437,7 @@
 
 ## Part 3: Extensions And Objections
 
-### Chapter 15: A Dozen Nudges
+### Chapter 16: A Dozen Nudges
 
 1. **Give More Tomorrow**: Just like Save more Tomorrow but for charity
 2. **The Charity Debit Card And Tax Deductions**: A debit card only used to give for charity. And only charities would accept that. At the end of the year, the bank would generate a statement that can be used as a deductible in tax filing.
@@ -450,3 +452,20 @@
 11. **No bite nail-polish or Disulfiram**: The first one is obvious, the second one can be used by people wanting to quit drinking. They can take Disulfiram and then consuming alcohol will make them feel nauseous.
 12. **The Civility Check**: Angry, abusive mail would be detected on clicking send and will advise you to send it 24 hrs later. 
     
+### Chapter 17: Objections
+
+What can be the arguments against the libertarian paternalistic approach and how can we diffuse them
+- The slippery slope: What if it starts as libertarian and ends as forced. Three arguments here
+  - If the proposal itself doesn't have merit then criticize it directly rather than relying on a slippery slope. If the proposal has merit then let it be implemented and put sand on the hypothetical slope
+  - Libertarian paternalism itself has a low-cost condition which makes sure there are no slippery slopes
+  - Some kind of nudge is inevitable anyways. Why not choose one which helps
+- Evil Nudgers and Bad Nudges: What if choice architects are choosing nudges that somehow help them instead of the people who are nudged. This can easily happen in conflict of interest. And we should worry about private and public choice architects alike. This can be handled via transparency. Example. Govt should disclose recent fundings before climate or education-related policies.
+- The Right to be Wrong: Some might argue that people have the right to be wrong so they can learn from themselves. The counterargument is that's why opt-out exists. Adding good defaults doesn't harm the right to be wrong.
+- Of Punishment, Redistribution, and Choice: People might object that campaigns such as [Dollar a day](#chapter-15-a-dozen-nudges) will cost taxpayers money and is redistribution of wealth. But they should remember that if the child is born the cost is larger. Some worry about choice stating that instead of defaults people should always be made to choose. But in cases where the audience doesn't have the required knowledge, it helps everyone if they have a default.
+- Drawing Lines and Publicity Principle: What if nudges are used by the govt to manipulate people. The Publicity Principle can be used here. It bans the government from selecting a policy which it is not willing to defend publicly to its citizens.
+- Neutrality: In some cases, the government should remain neutral. For example in the case of coting the ballots have to list the candidates in some order. Whoever gets listed first gets an advantage. Randomness must be included in this case to remain neutral. If there are some cases where neutrality is the best choice why are nudges good then. The counterargument is that we have to ask ourselves whether the nudge is helping the Nudgee.
+- Why to stop at Libertarian Paternalism: These arguments can be made by non-libertarian paternalists that instead of nudging we should force to protect people. But there are no hard and fast stopping points. Where would you stop? Will you remove complete freedom of choice?. It talks about asymmetric paternalism further but I did not get the argument.
+
+### Chapter 18: The Real Third Way
+
+Libertarian Paternalism offers a real third way when mandates and full freedom can't make everyone happy
