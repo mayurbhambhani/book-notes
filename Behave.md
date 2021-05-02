@@ -7,6 +7,7 @@
     - [Serotonin](#serotonin)
     - [What all this info does not mean](#what-all-this-info-does-not-mean)
   - [Chapter 3: Seconds To Minutes Before](#chapter-3-seconds-to-minutes-before)
+  - [Chapter 4:  Hourd To Days Before.](#chapter-4--hourd-to-days-before)
   - [Appendix 1:  Neuroscience 101.](#appendix-1--neuroscience-101)
   - [Brain regions:](#brain-regions)
         - [Cortex](#cortex)
@@ -151,6 +152,49 @@
 
 
 ## Chapter 3: Seconds To Minutes Before
+
+- We will focus on the following questions
+  - What outside stimulus, acting through what sensory channel, targetting what part of the brain caused a particular behavior.
+  - Were we aware of the environmental stimulus.
+  - What does this tell us about our best and worst behaviors.
+- Ethology: The science of interviewing anumals in its own language. We will understand what sensory information prompts what behavior by looking at animals who get same sensory information but in wider ranges.
+- Assumption is discoveries with this techniques will apply to all species. But these assumptions are not always correct.
+- Emphasis on observing animals in their natural habitat.
+- When female pandas are ovulating voice changes in the direction of the preference of the males. Same happens with humans.
+- The most dominant sense will always have most direct access to the limbic system. That is the most dominant sense dominates behavior. And this is observed accross all species. Smell in rats, vision in humans etc.
+- Over the seconds, sensoary cues can influence our behavior unconsciously. Reading a paragraph about ocean and then selecting among various detergents can make us choose Tide.
+- Fear conditioning with seeing a face accompained with a shock occurs faster when the face belongs to a race different than the subject's
+- If whites see a black face shown at subliminal speed(not enough for the brain to grasp what it actually saw) the amygdala activates. But if the face is shown longer enough then the prefrontal cortex is activated and inhibits the amygdala.
+- Side Note: This is described by Louis CK in a comedy routined. He talks about how will he feel seeing a huge black guy at a gas station where he is standing alone late night. He starts with fears and than convinces himself that here is nothing to fear.
+- The brain has a cortical region called *fusiform face area* that is responsible for facial recognition. With subliminal signaling, it is less activated for other races. Multiple things about race are discussed. Eg How we are likely to mistake a cell phone for a gun if it is of an other race etc etc. How african the face is might determine how longer the sentence is.
+- Other types of subliminal information also influences the brain. Gender is detected in 150 ms. Same for social status.
+- Direct Gaze, Open posture are signs of high social status, while averted gaze, sheltered torso are signs of subordinate social status.
+- Halo effect is also described.
+- Though we derive subliminal info from body cues. But we get most of the information from the faces.
+- The shape of the womens' faces changes subtly during the ovulatory cycle. Men prefer female faces more when they are ovulating.
+- People who look embarassed, blushing, eyes everted, face looking down, are easily forgiven.
+- In face also eyes give the most information.
+- Lets discuss another sense which helps in subliminal messaging, smell.
+- Rats devote 40% of their brains to smell. We do 3%.
+- Our olfactory system sends more direct projections to the limbic system than other sensory systems. 
+- Heterosexual women prefer the smell of high testosterone males.
+- Pheromones also signal fears. The smell of sweating from running and sweat from sky diving fear is different. And smelling such sweat also makes the smeller a little more scared unconsciously.
+- Interoceptive Information:
+  - The information which body gives us about itself also influences our behavior. Exm hunger, pain, etc.
+  - It influences, not determines, our emotion
+  - Pain makes aggressive people more aggressive it does the opposite for unaggressive individuals.
+  - The amount of energy reaching the brain and the amount of energy needed by the frontal cortex has something to do whether the pfc is able to do the needed right thing or not.
+- Unconscuous Language Effects: 
+  - An unconscious priming with words influences pro- and anti-social behaviors.
+  - Words can prime people and influence further behavior
+- Group influences on beahvior is considered and it is said that the ByStander Effect does not apply in dangerous situation. On the contrary displaying heroics is likely to be considered. The new york killing incidence is also described. The same incidence is also described in in [Influence](Influence-%20The%20Psychology%20of%20persuasion.md). This book says its not the bystander effect but the other says it is. Dont know which one to believe.
+- Other examples of how our social environment can influence our behavior is discused.
+- Cleaning cities can drop crime rate in those cities.
+- When shown a picture of an object embedded in a complex background, people from collective cultures(like China) focus more on the background and people from more individualistic cultre focus more on the object. Ask them to reverse this preference and the pfc gets engaged meaning the task becomes perceptually difficult.
+- Thus a lot of things influence us seconds or minutes before a particular behavior and we are not thinking as autonomously as we would like to believe.
+
+
+## Chapter 4:  Hourd To Days Before.
 
 
 

@@ -7,6 +7,9 @@
     - [Chapter 4: How To Run A Meeting](#chapter-4-how-to-run-a-meeting)
   - [Part 3: Versions Of You](#part-3-versions-of-you)
     - [Chapter 28: Bored People Quit](#chapter-28-bored-people-quit)
+    - [Chapter 29: Bellwethers](#chapter-29-bellwethers)
+    - [Chatper 30 : The 90 Day Interview](#chatper-30--the-90-day-interview)
+    - [Chapter 31: Managing Nerds](#chapter-31-managing-nerds)
 
 # Managing Humans
 
@@ -119,5 +122,31 @@ Are you actively killing the grapevine(+1)
   - Technical: Find a technical bully
   - Vision: Do we want someone to push an agenda or work in silence. And how is the candidate matching our requirements.
   - Always listen to the teams feedback. Always conduct a debrief and let the group reach consensus.
+
+### Chatper 30 : The 90 Day Interview
+
+- It takes time to get adjusted in a new job. It takes time to understand the jargons, the tech and most importantly people. According to the auther you should give 90 days to complete this process.
+- When you join a company. Set a reminder in the calendar after 90 days. This physical act reminds you to relax and not fret. Some things take time.
+- Stay Late and Show up Early: Understand the working time of your team members. How they work and what is their process. Helps to understand your team better
+- Accept Every lunch interview you get. You need to build rapport.
+- Always ask about acronyms. The team has its jargon. Listening wont help until you understand these jargons.
+- Dont be afraid of stupid questions. Let the team giggle. The should know you are trying to get the drift and dont like to lift any opportunity to understand things.
+- Have a Drink. Whenever invited dont miss the opportunity to socialize out of work. Real stories are shared there.
+- After the rapport is build the following three can be tried.
+- Tell someone what to do. The goal is to exert your influence and test your influence. The goal is also to see what you say is true. Is your understanding of the organization correct. Tell the right person
+- Have an argument. To figure out how are decisions taken and arguments resolved. Are healthy arguments the norm or emotions get into it and arguments end with grudges.
+- Find your inner circle. After 90 days you hayouve a reading of where you belong and are comfortable.
+- Finish: Develop an understanding of the people. Understand how to interact with each individuals keeping in mind their quirks.
+
+### Chapter 31: Managing Nerds
+
+- Your job with your nerd team member is to bring calm to their chaos.
+- Nerds love consistency. There should be a logic to everything decision that makes further such decisions predictable.
+- Nerds love efficiency. Ensure that they are not disturbed then they are in the zone. Give them an environment where they can be productive.
+- Understand what are the things which can make them more productive. Give them the setup they need. Find out the visual cues that can tell the world they are in the zone and should not be disturbed. Headphones on, sitting in a particular room, having a coffee cup nearby.
+- If your nerd tells you he can build it himself. Ask him to justify it. Your default position should be avoiding the reinventing of the wheel.
+- Nerds get bitter when we see the same mistakes repeating themselves. Ask them, understand the mistakes and the solutions if they are proposing any.
+- If they appear stuck with a task, talk to them. Do they need help? If they do pair them with a non-competitor senior team member who can help them.
+- Don't try to force them into the zone. Provide the environment and let them be. Pair them with a cohort if letting them be doesn't work.
   
   
