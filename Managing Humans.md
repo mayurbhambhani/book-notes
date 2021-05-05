@@ -10,6 +10,9 @@
     - [Chapter 29: Bellwethers](#chapter-29-bellwethers)
     - [Chatper 30 : The 90 Day Interview](#chatper-30--the-90-day-interview)
     - [Chapter 31: Managing Nerds](#chapter-31-managing-nerds)
+    - [Chatper 32: NADD](#chatper-32-nadd)
+    - [Chapter 33: Nerd Cave](#chapter-33-nerd-cave)
+    - [Chatper 34: Meeting Creatures.](#chatper-34-meeting-creatures)
 
 # Managing Humans
 
@@ -148,5 +151,34 @@ Are you actively killing the grapevine(+1)
 - Nerds get bitter when we see the same mistakes repeating themselves. Ask them, understand the mistakes and the solutions if they are proposing any.
 - If they appear stuck with a task, talk to them. Do they need help? If they do pair them with a non-competitor senior team member who can help them.
 - Don't try to force them into the zone. Provide the environment and let them be. Pair them with a cohort if letting them be doesn't work.
-  
+
+### Chatper 32: NADD
+
+- Nerd attention deficit disorder.
+- Did not understand the point of this chapter.
+- Talks about how nerds can focus on different things at a time and the might seem distracted but thats how they work
+
+### Chapter 33: Nerd Cave
+
+- What I took out of this chapter was the importance of a structured process to get you in the productivity zone
+- Have a routine and process to get into the groove. Also described in [Atomic Habits](atomic%20habits.md). For example, wake up, take a shower, have cornflakes while reading the news, and get into it.
+- Importance of a designated place where you do your thinking.
+- Importance of a door or headphones to keep out the rest of the world.
+- It should also have a comfortable chair, desk, table, laptop, and internet.
+- Sometimes you won't go into the zone, but maintain the routine, do something else in the same place maintaining the same meeting. This is like going to the gym because you want to get better at cricket.
+
+
+### Chatper 34: Meeting Creatures.
+
+- The Anchor: The most important guy. Everybody is talking to this guy. They want his opinion and he would make decisions. If he is not present reschedule. Time is being wasted.
+- Laptop Larry: Trying to work in the meeting. Neither works nor listens properly. Most unproductive. If he is taking notes tell him that a designated person is taking notes and he doesn't need to. Else he will look at Wikipedia to search what something means. He should be asking people, listen intently and debate on things.
+- Mr. Irrelevant: Who invited him and why? Find out before punting him.
+- Chatty Patty: Cant close a thought. Rambles on. Should only be asked where well-defined questions where the scope for him to drone on is less. Find out if this person is irrelevant.
+- Translator Tim: Bridges two groups who don't understand each other. The important guy only when he favors your agenda. Else you will have to find your own Tim.
+- Sally Synthesizer: Always listens and moves the meeting forward by making the obvious, crystal clear with other people. Same as in the case of Tim, if Sally is not on your side, find your own Sally. Make sure she doesn't start thinking she is an anchor.
+- Curveball Kurt: You don't know what he is talking about. Take help from Sally and Tim, if required, and figure out if he is Mr. Irrelevant. The situation is going to be tough when Anchor=Kurt.
+- The Snake: The hidden Anchor. For some reason, this guy was hidden and somebody else was acting as anchor.
+
+
+
   

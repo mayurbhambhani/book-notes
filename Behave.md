@@ -7,8 +7,9 @@
     - [Serotonin](#serotonin)
     - [What all this info does not mean](#what-all-this-info-does-not-mean)
   - [Chapter 3: Seconds To Minutes Before](#chapter-3-seconds-to-minutes-before)
-  - [Chapter 4:  Hourd To Days Before.](#chapter-4--hourd-to-days-before)
+  - [Chapter 4:  Hours To Days Before.](#chapter-4--hours-to-days-before)
   - [Appendix 1:  Neuroscience 101.](#appendix-1--neuroscience-101)
+  - [Appendix 2:  Basics Of Endicronology](#appendix-2--basics-of-endicronology)
   - [Brain regions:](#brain-regions)
         - [Cortex](#cortex)
         - [PAG](#pag)
@@ -194,7 +195,7 @@
 - Thus a lot of things influence us seconds or minutes before a particular behavior and we are not thinking as autonomously as we would like to believe.
 
 
-## Chapter 4:  Hourd To Days Before.
+## Chapter 4:  Hours To Days Before.
 
 
 
@@ -244,6 +245,19 @@
 - If somebody has a brain injury at spot X and he does something abnormally, can we deduce the region responsible for that function? Only when the region is not the fiber tract. If it is then you are only learning about the region which inputs. But it can be on either side.
 - Even if the region in question is not a boundary we cant perfectly deduce the region as there are many regions responsible for one thing as all are communicating and no one region, in particular, can be called the most active participant.
 - Side NoteS: But I guess with a lot of data we have created a brain map today.
+
+## Appendix 2:  Basics Of Endicronology
+
+- Endicronology is the study of hormonse.
+- Hormones are chemical messagers which are released from secretory cells in various glands.
+- From there they are released into the blood stream and then can influene any cells throughout the body.
+- Neurotransmietters are also chemical messangers but they can only effect neurons on the other side of the synapse.
+- Neuron signalling across synapses occurs in milli seconds. Hormones signalling can take form hours to days and can persist forever. Puberty doesnt go away.
+- Hormones can a wide range of effects while neurotransmitters are just transmitting a certain kind of signal.
+- Hormones also fit into their receptors as a key fits into a lock. Just like neurotrasmitters do.
+- The quality of the receptor fitting and the concentration of hormone levels together determine the effect.
+- The receptor fittings change over time resulting in the hormones fitting less or more snugly.
+- 
 
 
 ## Brain regions:
