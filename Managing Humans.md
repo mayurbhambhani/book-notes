@@ -13,6 +13,9 @@
     - [Chatper 32: NADD](#chatper-32-nadd)
     - [Chapter 33: Nerd Cave](#chapter-33-nerd-cave)
     - [Chatper 34: Meeting Creatures.](#chatper-34-meeting-creatures)
+    - [Chapter 35: Incrementalists and Completionists](#chapter-35-incrementalists-and-completionists)
+    - [Chapter 36: Organics And Mechanics](#chapter-36-organics-and-mechanics)
+    - [Chapter 37: Inwards, Outwards, Holistics](#chapter-37-inwards-outwards-holistics)
 
 # Managing Humans
 
@@ -178,6 +181,28 @@ Are you actively killing the grapevine(+1)
 - Sally Synthesizer: Always listens and moves the meeting forward by making the obvious, crystal clear with other people. Same as in the case of Tim, if Sally is not on your side, find your own Sally. Make sure she doesn't start thinking she is an anchor.
 - Curveball Kurt: You don't know what he is talking about. Take help from Sally and Tim, if required, and figure out if he is Mr. Irrelevant. The situation is going to be tough when Anchor=Kurt.
 - The Snake: The hidden Anchor. For some reason, this guy was hidden and somebody else was acting as anchor.
+
+### Chapter 35: Incrementalists and Completionists
+
+- Incrementalists: Realists. Understand that everything cant be done the right way because we dont have enough time. Always make small progress. But these people lack vision and a holistic picture. We also need to make sure that their incremental tasks are going towards actual completion and there solutions should just not tackle the symptoms but they should move towards actual solution.
+- Completionists: Dreamers. Want to do things right and dont want to compromise even when there is a deadline. Have vision but lack fast action. While working with them we continuously need to focus on the fact that better is the enemy of done. 
+- It isnt a battle of wrong vs right it is the battle of right vs right.
+- Whenever there is a conflict between two such people. Find middle ground by marrying both the strategies
+
+### Chapter 36: Organics And Mechanics
+
+- This chapter talks about understanding how your manager things and works and use that knowledge to communicate with them.
+- Mechanics: Structured approach. Systematic collection of information. Might seem uptight.
+- Organics: Will seem like their approach is chaotic and they are improvising. Though they are better at networking and chill people.
+- As a manager strive to marry these two things to create your approach.
+
+### Chapter 37: Inwards, Outwards, Holistics
+
+- Inwards: First line manager, Small teams. Have to worry only about their own team and the product they make. They worry about cross functional stuff only when other teams are dependent on their teams. Myself
+- Holistics: Directors. Have an org to manager. Most of the time goes in info gathering. Difficult to get their time. Have hired good Inwards to manage the separate orgs. They need to know what is happening everywhere in the org
+- Outwards: Pradhan. Worry about how company is percieved publically, customers, finances. They tell other people about what great work is being done. While holistics run the company, these guys are accountable.
+- Not understanding what you are might result in micro management.
+- While hiring inwards its good to hire inwards on a trajectory to become holistics.
 
 
 
