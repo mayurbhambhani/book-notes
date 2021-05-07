@@ -16,6 +16,13 @@
     - [Chapter 35: Incrementalists and Completionists](#chapter-35-incrementalists-and-completionists)
     - [Chapter 36: Organics And Mechanics](#chapter-36-organics-and-mechanics)
     - [Chapter 37: Inwards, Outwards, Holistics](#chapter-37-inwards-outwards-holistics)
+    - [Chapter 38: Free Electrons](#chapter-38-free-electrons)
+    - [Chapter 39: Rules for the Reorg.](#chapter-39-rules-for-the-reorg)
+    - [Chatper 40: An Unexpected Connection](#chatper-40-an-unexpected-connection)
+    - [Chapter 41: Avoiding the Fez](#chapter-41-avoiding-the-fez)
+    - [Chapter 42: A Glimpse And A Hook](#chapter-42-a-glimpse-and-a-hook)
+    - [Chapter 43: Nailing the Phone Screen](#chapter-43-nailing-the-phone-screen)
+    - [Chapter 44: Your Resignation Checklist](#chapter-44-your-resignation-checklist)
 
 # Managing Humans
 
@@ -203,6 +210,88 @@ Are you actively killing the grapevine(+1)
 - Outwards: Pradhan. Worry about how company is percieved publically, customers, finances. They tell other people about what great work is being done. While holistics run the company, these guys are accountable.
 - Not understanding what you are might result in micro management.
 - While hiring inwards its good to hire inwards on a trajectory to become holistics.
+
+### Chapter 38: Free Electrons
+
+- People who can be brought in to provide dev help to any project.
+- Highly intelligent and efficient developers who can act as saviors.
+- These are rockstars.
+- How to take care of them?
+  - Keep them engaged: Give them research-oriented tasks. If they spend too long in development they will get bored.
+  - See that they are not writing the whole DB layer to fix a mess only to realize later that we don't have the testing capacity to test the new layer.
+  - Sometimes they won't engage and they won't explain why. Think you telling them to fix something which is urgent and them saying yes to it and not doing anything until two weeks later the problem vanishes on its own.
+  - Don't give them extra special attention in front of the team. You don't say in front of the team that so and so is a free electron. They already know.
+
+
+### Chapter 39: Rules for the Reorg.
+
+- Reorg is when teams or products are shifted around to align with the new company strategy. It can be because the market is changing, the vision is changing or they brought a fancy new CEO who saw things differently.
+- Figure out your role in the reorg. You can use it as an opportunity to facilitate team changes which without the already happening reorg would have sounded absurd. Or you can decide to sit back and watch the fun.
+- Start listening carefully. Rumors will be spread. Kill the grapevine and don't believe everything you hear.
+- Reorgs take forever. It is not over until the org char has been presented to the entire company.
+- Have patience. Things will take time to settle down. And shifted teams and their head will take time to get used to the change.
+
+### Chatper 40: An Unexpected Connection
+
+- Useless chapter. Just describes why and how nerds are funny.
+- They are funny because they create real-time humor by connecting things.
+- Hence they have a huge knowledge appetite. So they can connect things.
+
+### Chapter 41: Avoiding the Fez
+
+- Fez represents an engineer who doesn't want to grow.
+- He has stuck around by creating dependency for too long and sooner or later people will remove the dependency by taking initiative. If he is maintaining a bad code base that only he understands. It would be rewritten.
+- Don't be a Fez. Don't be in the state where you are given projects which nobody cares for. Don't be the fat that is trimmed when times become testing for the org.
+- Convince the Fez to put his faith in growth rather than the comfort of the known.
+- Annual review is important. Every month write about what the team did and how the people performed. By the end of the year, you will have enough career guidance advice for your team.
+- Annual review is a discussion, not a speech
+- Every employee is in a 2X2 matrix. One axis is Skill and the other is Interest. 
+  - High Skill, High Interest
+    - They will eventually leave this state but this is the desirable state.
+  - High Skill, Low Interest
+    - They are bored. Keep them engaged. Needs change in responsibility and scenery.
+  - Low Skill, High Interest
+    - Send them on training, Help them. mentor them
+  - Low Skill, Low Interest
+    - Improving skill improves interest and vice versa.
+
+### Chapter 42: A Glimpse And A Hook
+
+- Return to the chapter when writing resumes
+- Recruiters look for keywords
+- Hiring Managers look for what you worked on during the first pass.
+- They will glance where you studied in the second pass. To avoid bias.
+- The resume should withhold an information test.
+- It should be very easy to read at a glance. Don't give any minute detail
+- It should stand out without being very bold. 
+-
+
+### Chapter 43: Nailing the Phone Screen
+
+- Prepare your questions
+- As a Hiring Manager,  see if communication is not a problem and the questions the candidate asked are well prepared.
+- As an HM, start with some interesting detail you found in the resume. Infy Mysore, Some college project. etc, City, School college, etc.
+- As an interviewee: If you are in the ballpark of required skills it's good enough, don't even worry about good to have skills.
+- Google the guy who is going to interview you
+- Google the company and product.
+- Do at least 1-hour research and prepare the questions you want to ask.
+- As an HM:
+  - Look for long awkward pauses
+  - Adversarial interactions
+  - How did it feel.
+  
+
+### Chapter 44: Your Resignation Checklist
+
+- Don't over-commit in the notice period because of the guilt
+- Personally inform people you respect and like that you are leaving.
+- Update the list of the people you will call back when you start up your own thing.
+- Don't write angry-hate-revenge mails. Don't burn the bridges. Be nice.
+- Do right by those who work for you. Send them a separate email that has their strengths and working areas.
+- Don't volunteer to do work after you leave. If we do charge a lot of money.
+- Don't give too much notice. Just the bare minimum. Give them the chance to move on. 
+
+
 
 
 
