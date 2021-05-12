@@ -43,7 +43,24 @@
 
 ### Chapter 3: Observing Without Evaluating
 
-
+- When we combine observations and evaluation, we decrease the likelihood that others will hear our intended message. Instead they will hear criticism. 
+- NVC is a process language which discourages static generalizations; instead, evaluations are to be based on observations *specific to context and time*.
+- Examples: Observation versus evaluation
+  - Use of verb *to be* without indicating that the evaluator takes responsibility for evaluation:  You are too generous **versus**, When I see you give all your lunch money to other, I think you are being too generous.
+  - Use of verbs with evaluative connotations :Doug procrastinates **versus**, Doug only studies for exams the night before.
+  - Implying that one's inferences about another person's thoughts, feelings, intentions, or desires are the only ones possible: She won't get her work in **versus**, It is possible, based on my observation, that she might not be able to get her work in
+  - Confusion of prediction with certainty: If you dont eat balanced meals, your health will be impaired **versus**, If you dont eat balanced meals, I fear your health may be impaired.
+  - Failure to be specific about referents: Immigrants dont take care of their property **versus**, I have not seen my neighbor immigrant family shovel the snow on their sidewalk.
+  - Use of words denoting ability without indicating that an evaluation has been made: Hank Smith is a poor soccer player **versus**, Hank Smith has not scored a goal in 20 games.
+  - Use of adverbs and adjectives in a way that do not indicate an evaluation has been made: Jim is ugly **versus**, Jim's look dont appeal to me.
+- The words *always*, *never*, *ever*, *whenever*, etc. express observations when used in the following ways.
+  - Whenever I have observed Jack on the phone, he has spoken at least thirty minutes.
+  - I cannot recall your ever writing to me.
+- But sometimes these words are use to exaggerate and provoke defensiveness rather than compassion.
+  - You are always busy
+  - She is never there when she is needed.
+- You seldom do I wand **versus**, The last three times I initiated an activity, you said you did not want to do it.
+- He frequently comes over **versus**, He comes over at least thrice a week.
   
 
 
