@@ -21,11 +21,12 @@ For good habits
 For bad habits
 1. Make it invisible.
 2. Make in unattractive.
-3. Make it difficult
+3. Make it difficult.
+4. Make it unsatisfying.
 
 ## Make it Obvious
 
-Good and Bad habits become automatic after sometime. You will need better awareness and monitoring of your behavior. Use pointing-and-calling and habit scorecard(list your day habits with a positive and negative sign infant of them) to be aware. Raise awareness first before change.
+Good and Bad habits become automatic after sometime. You will need better awareness and monitoring of your behavior. Use pointing-and-calling and habit scorecard(list your day habits with a positive and negative sign in front of them) to be aware. Raise awareness first, before change.
 
 
 To make the cue obvious
@@ -51,7 +52,7 @@ Self Control
 1. More dopamine is released during anticipation stage as compared to realiazation.
 2. Use habit bundling to make your habits attractive. This can be done by combining needs and wants. Whenever you need to check social media first do 10 pushups kind of thing.
 3. Then plug this need+want package into the habit stacked linked list slope.
-4. We find to fit in. Habits which are norms in our culture are easily picked up. We tend to initiate the habits of three types of people. The close, The many and The powerful. One way to make your habits attractive is to become a part of the culture where your desired behavior is the norm and additionally you have something in common with the group. The habit becomes attractive be cause of the approval.
+4. We want to fit in. Habits which are norms in our culture are easily picked up. We tend to initiate the habits of three types of people. The close, The many and The powerful. One way to make your habits attractive is to become a part of the culture where your desired behavior is the norm and additionally you have something in common with the group. The habit becomes attractive because of the approval.
 5. Every behavior has a deeper motive and a surface level craving.
 6. Behavior is the result of the prediction that it will satisfy the underlying motive. 
 7. Replace bad behaviors with good to satisfy the same underlying motive.
