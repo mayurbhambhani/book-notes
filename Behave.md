@@ -46,7 +46,7 @@
 - PNS is the opposite, it is about calm and vegetative states.
 - The SNS increases heart rate and PNS slows it down. The PNS promotes digestion, the SNS inhibits it.
 - Hypothalamus also regulates the release of many hormones.
-- Cortex: Here muscles are commanded to move, language is comprehended and produced, memories are stored, spatial and mathematical skulls reside here and decisions are made here.
+- Cortex: Here muscles are commanded to move, language is comprehended and produced, memories are stored, spatial and mathematical skills reside here and decisions are made here.
 - But this is all wrong because we know that if we hold a chilled coke in one hand and meet someone for the first time, we can judge them as cold. Meaning 2nd layer assessing the personality. 
 - This is one of the disadvantages of the Triune model. It makes us think the functions are completely segregated and the communication across the layer is bidirectional.
 - Frontal cortex is the interface between layer 2 and layer 3. It can also be thought of as an honorary member of the limbic system. 
@@ -64,7 +64,7 @@
 - Very much responsible for aggression.
 - Also responsible for emotions that cause fear and anxiety.
 - The amygdala is particularly sensitive to the unsettling circumstances that are social. An experiment is mentioned when the monkey is put in a room and its sexual partner in another room with a male rival. The monkey can hear the sounds from the other room. The monkey feels anxious.
- -Nervousness felt before public speaking is because of the amygdala.
+- Nervousness felt before public speaking is because of the amygdala.
 - Being unsure of your place, or where you stand in a social setting, or in other words, not knowing what is your rank is also unsettling.
 - Both innate(fear of snake) and learned fears(fear of Income Tax Department) are activated in the amygdala.
 - Amygdala can learn fear(pair sound and shock and watch the conditioning).
@@ -127,7 +127,7 @@
 - Rightfully punishing others also does that
 - Schadenfreude(feeling pleasure in somebody else's pain) also increases dopaminergic activity.
 - If the salary doubles, dopamine increases, then it comes down to original levels. If the salary comes back to the original level, dopamine declines.
-- More from expectation means more dopamine less means less. The expectation information comes from the cortex.
+- Recieving more compared to expectation means more dopamine less means less. The expectation information comes from the cortex.
 - As humans have invented pleasures that are more intense than anything offered by nature we run a risk of habituation and desensitization. After a while, it is easy to be immune to the subtle pleasures of life.
 - And we eventually habituate to the artificial pleasures also and then we feel an emptiness.
 - Once the conditions of the rewards are learned. Dopamine is more about anticipation than the reward itself.
@@ -149,7 +149,7 @@
 - It shouldn't require neuroscience to validate someone's internal state: The argument given here is that to prove PTSD was an organic disorder, neuroscience was required and that shouldn't have been the case. The question of why it shouldn't have been the case is not argued. More about PTSD: In veterans, due to stress, the hippocampus is damaged. Hippocampus secretes noradrenaline which helps in therapy while sleep as mentioned in [Why we sleep](Why%20We%20Sleep.md)
 - This info also doesn't mean that if neuroscience can demonstrate something, the validity of the proof is proportional to the fanciness of the neurobiology used.
 - If neuroscience helps us understand the reasons why a criminal committed a crime, it doesn't mean we have to forgive him. Understanding doesn't mean forgiveness. For example, someone committed a crime because PFC was absent and someone committed even if the PFC was present. The reasons can be argued to be biological in both cases.
--Side Notes: These arguments I felt were not well-argued and it is easy to sway either way. Let us see if the coming chapters have better arguments.
+- Side Notes: These arguments I felt were not well-argued and it is easy to sway either way. Let us see if the coming chapters have better arguments.
 
 
 ## Chapter 3: Seconds To Minutes Before
@@ -158,7 +158,7 @@
   - What outside stimulus, acting through what sensory channel, targetting what part of the brain caused a particular behavior.
   - Were we aware of the environmental stimulus.
   - What does this tell us about our best and worst behaviors.
-- Ethology: The science of interviewing anumals in its own language. We will understand what sensory information prompts what behavior by looking at animals who get same sensory information but in wider ranges.
+- Ethology: The science of interviewing animals in its own language. We will understand what sensory information prompts what behavior by looking at animals who get same sensory information but in wider ranges.
 - Assumption is discoveries with this techniques will apply to all species. But these assumptions are not always correct.
 - Emphasis on observing animals in their natural habitat.
 - When female pandas are ovulating voice changes in the direction of the preference of the males. Same happens with humans.
@@ -167,14 +167,14 @@
 - Fear conditioning with seeing a face accompained with a shock occurs faster when the face belongs to a race different than the subject's
 - If whites see a black face shown at subliminal speed(not enough for the brain to grasp what it actually saw) the amygdala activates. But if the face is shown longer enough then the prefrontal cortex is activated and inhibits the amygdala.
 - Side Note: This is described by Louis CK in a comedy routined. He talks about how will he feel seeing a huge black guy at a gas station where he is standing alone late night. He starts with fears and than convinces himself that here is nothing to fear.
-- The brain has a cortical region called *fusiform face area* that is responsible for facial recognition. With subliminal signaling, it is less activated for other races. Multiple things about race are discussed. Eg How we are likely to mistake a cell phone for a gun if it is of an other race etc etc. How african the face is might determine how longer the sentence is.
+- The brain has a cortical region called *fusiform face area* that is responsible for facial recognition. With subliminal signaling, it is less activated for other races. Multiple things about race are discussed. Eg How we are likely to mistake a cell phone for a gun if it is of an other race etc etc. How african the face is might determine how longer the prisom sentence is.
 - Other types of subliminal information also influences the brain. Gender is detected in 150 ms. Same for social status.
 - Direct Gaze, Open posture are signs of high social status, while averted gaze, sheltered torso are signs of subordinate social status.
 - Halo effect is also described.
 - Though we derive subliminal info from body cues. But we get most of the information from the faces.
 - The shape of the womens' faces changes subtly during the ovulatory cycle. Men prefer female faces more when they are ovulating.
 - People who look embarassed, blushing, eyes everted, face looking down, are easily forgiven.
-- In face also eyes give the most information.
+- In face also, eyes give the most information.
 - Lets discuss another sense which helps in subliminal messaging, smell.
 - Rats devote 40% of their brains to smell. We do 3%.
 - Our olfactory system sends more direct projections to the limbic system than other sensory systems. 
@@ -196,6 +196,25 @@
 
 
 ## Chapter 4:  Hours To Days Before.
+
+- This chapter talks about hormones and their effects. Mostly we will talk about testosterone and oxytocin.
+- Basically this chapter argues that
+  - Testosterone is far less relevant to aggression than usually assumed
+  - Oxytocin, the prosocial hormone which fosters warm fuzzy prosocial behavior it not as relevant to social behavior than usually assumed.
+- If testosterone was the main reason for agression, removing the testicles should take away the aggression. But what happens is the post castration agression is proportional to pre castration aggression.
+- The brain does not pay attention to fluctuations of testosterone level within the normal range.
+- Testosterone increase confidence and optimism while lowering fear and anxiety.
+- Success is anything and everything boosts testosterone.
+- Testosterone make people cocky, egocentric, narcissitc.
+- It also boosts impulsivity, and risk taking.
+- Testosterone does this by decreasing the coupling between PFC and amygdala and increasing the coupling between thalamus. Thus weakening layer 3 and 2 connection and enforcing layer 2 and 1. Thus emotions will drive behavior when testosterone is high.
+- Contingent Testosterone effects
+  - Meaning instead of causing X, testosterone intensifies X
+  - If testosterone is administered to middle  ranking monkeys, the dont start challenging the current top rank monkeys, instead they start harassing the lower rank monkeys more. Hence testosterone did not create new social patterns of aggression, it exaggerated the previous ones.
+  - Hence tesosterone doesnt cause aggression, it just intensifies it.
+- Testosterone rise in humans while in solo/group competetitions and intensifies behaviors which will assisst in winning or to maintain status.
+- Thus testosterone might intensify the niceties if in a certain situation being nice will help someone maintain the status.
+-   
 
 
 
